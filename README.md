@@ -1,11 +1,11 @@
-#React project
-##Notable NodeJs packages
+# React project
+## Notable NodeJs packages
 Github Pages
 
-##CSS Libaries
+## CSS Libaries
 Boot Strap
 
-##Running
+## Running
 After changes are made run
 ```bash
 npm run deploy
