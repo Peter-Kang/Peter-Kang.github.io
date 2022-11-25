@@ -1,59 +1,23 @@
-import { Nav } from "react-router-dom"
-import React from "react";
+import Container from 'react-bootstrap/Container';
+import Nav from 'react-bootstrap/Nav';
+import Navbar from 'react-bootstrap/Navbar';
 
-const Navbar =()=>
-{
-      return (
-            <nav className="navbar navbar-expand-sm navbar-light bg-light">
-                  <a className="navbar-brand" href="./">
-                        Peter Kang
-                  </a>
-                  <button
-                        className="navbar-toggler"
-                        type="button"
-                        data-toggle="collapse"
-                        data-target="#navbarNavDropdown"
-                        aria-controls="navbarNavDropdown"
-                        aria-expanded="false"
-                        aria-label="Toggle navigation"
-                  >
-                        <span className="navbar-toggler-icon"></span>
-                  </button>
-                  <div className="collapse navbar-collapse" id="navbarNavDropdown">
-                        <ul className="navbar-nav">
-                              <li className="nav-item active">
-                                    <a className="nav-link" href="./">
-                                          Home
-                                    </a>
-                              </li>
-                              <li className="nav-item">
-                                    <a className="nav-link" href="./#/Work">
-                                          Work
-                                    </a>
-                              </li>
-                              <li className="nav-item">
-                                    <a className="nav-link" href="./#/Projects">
-                                          Projects
-                                    </a>
-                              </li>
-                        </ul>
-                  </div>
-                   <div
-                        className="dropdown-menu"
-                        aria-labelledby="navbarDropdownMenuLink"
-                  >
-                        <a className="dropdown-item" href="./Home">
-                              Home
-                        </a>
-                        <a className="dropdown-item" href="./Work">
-                              Work
-                        </a>
-                        <a className="dropdown-item" href="./Projects">
-                              Projects
-                        </a>
-                  </div>
-            </nav>
-      )
+function siteNavBar() {
+  return (
+    <Navbar bg="light" expand="lg">
+      <Container>
+        <Navbar.Brand href="./">Peter Kang</Navbar.Brand>
+        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Collapse id="basic-navbar-nav">
+          <Nav className="me-auto">
+            <Nav.Link href="./">Home</Nav.Link>
+            <Nav.Link href="./#/Work">Work</Nav.Link>
+            <Nav.Link href="./#/Projects">Projects</Nav.Link>
+          </Nav>
+        </Navbar.Collapse>
+      </Container>
+    </Navbar>
+  );
 }
 
-export default Navbar;
+export default siteNavBar;
