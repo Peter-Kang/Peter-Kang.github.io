@@ -12,13 +12,13 @@ const Home = ()=>
                 </Col>
             </Row>
             <Row className="justify-content-center">
-                <Col md={8} sm={8} xs={10}>
+                <Col md={8} sm={8} xs={10} className="text-center">
                     Hi, I'm Peter Kang. A software engineer that works with interesting people on interesting projects.
                 </Col>
             </Row>
             <br/>
             <Row className="justify-content-center">
-                <Col md={8} sm={8} xs={10}> 
+                <Col md={8} sm={8} xs={10} className="text-center"> 
                     I enjoy listening to podcasts, exercising, reading, and learning about new things.
                 </Col>
             </Row>
