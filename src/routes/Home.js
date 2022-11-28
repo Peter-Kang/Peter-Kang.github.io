@@ -6,9 +6,10 @@ const Home = ()=>
 {
     return(
         <Container>
+            <br/>
             <Row className="justify-content-center">
                 <Col md={2} sm={4} xs={4} className="m-auto">
-                    <Image class="center-block" src='./profilePhoto.png'/>
+                    <Image roundedCircle class="center-block" src='./profilePhoto.png'/>
                 </Col>
             </Row>
             <Row className="justify-content-center">
