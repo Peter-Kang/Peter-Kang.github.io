@@ -22,6 +22,22 @@ const Home = ()=>
                     I enjoy listening to podcasts, exercising, reading, and learning about new things.
                 </Col>
             </Row>
+            <br/>
+            <Row className="justify-content-center">
+                <Col  md={8} sm={8} xs={10} className="text-center">
+                    Contact Info:
+                </Col>
+            </Row>
+            <Row className="justify-content-center">
+                <Col  md={8} sm={8} xs={10} className="text-center">
+                    Linkedin: <a href="https://www.linkedin.com/in/peter-kang-software/">Peter-Kang-Software</a>
+                </Col>
+            </Row>
+            <Row className="justify-content-center">
+                <Col  md={8} sm={8} xs={10} className="text-center">
+                    Github: <a href="https://github.com/Peter-Kang">Peter-Kang</a> 
+                </Col>
+            </Row>
         </Container>
     );
 } 
