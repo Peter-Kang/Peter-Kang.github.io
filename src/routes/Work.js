@@ -41,7 +41,7 @@ const Work = ()=>
             </Col>
         </Row>
         <Row><Col>Senior Software Engineer</Col></Row>
-        <Row><Col>Lead software projects like temperature compensation and event driven actions. Mentored other software engineers.</Col></Row>
+        <Row><Col>Lead software projects like temperature corrections and event driven actions. Mentored other software engineers.</Col></Row>
         <Row><Col>Softare Engineer</Col></Row>
         <Row><Col>Worked on Systems Software to control metrology machines. Added a Pub/Sub implementation in Common Language Infrastructure. Then worked on both Windows Forms and embeded software that the systems software interfaced with.</Col></Row>
         <Row><Col>Software Engineer Intern</Col></Row>
