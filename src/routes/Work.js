@@ -6,6 +6,7 @@ const Work = ()=>
 {
     return(
     <Container>
+        <br/>
         <Row>
             <Col md={1} sm={2} xs={2} className="m-auto"><Image src='./profilePhoto.png' width="50" height="50"></Image></Col>
             <Col>

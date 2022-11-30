@@ -8,8 +8,8 @@ const Home = ()=>
         <Container>
             <br/>
             <Row className="justify-content-center">
-                <Col md={2} sm={4} xs={4} className="m-auto">
-                    <Image roundedCircle class="center-block" src='./profilePhoto.png'/>
+                <Col md={2} sm={4} xs={4} className="text-center">
+                    <Image display-flex roundedCircle class="" src='./profilePhoto.png'/>
                 </Col>
             </Row>
             <Row className="justify-content-center">
