@@ -45,7 +45,7 @@ const Work = ()=>
             <Col>
                 <Row><Col className="fw-bold">SyncSum</Col></Row>
                 <Row><Col className="text-decoration-underline">Software Engineer</Col></Row>
-                <Row><Col>Summer Project for a Ruby on Rails Applicant tracking system</Col></Row>
+                <Row><Col>Start up Project for a Ruby on Rails Applicant tracking system</Col></Row>
             </Col>
         </Row>
         
