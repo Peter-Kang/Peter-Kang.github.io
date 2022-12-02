@@ -1,5 +1,5 @@
 # React project
-## Notable NodeJs packages
+## Notable packages
 Github Pages
 
 ## CSS Libaries
