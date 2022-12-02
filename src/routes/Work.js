@@ -31,7 +31,7 @@ const Work = ()=>
                 <Row><Col className="fw-bold">QVI</Col></Row>
                 <Row><Col className="text-decoration-underline">Senior Software Engineer</Col></Row>
                 <Row><Col>Lead software projects like temperature corrections and event driven actions. Mentored other software engineers.</Col></Row>
-                <Row><Col className="text-decoration-underline">Softare Engineer</Col></Row>
+                <Row><Col className="text-decoration-underline">Software Engineer</Col></Row>
                 <Row><Col>Worked on Systems Software to control metrology machines. Added a Pub/Sub implementation in Common Language Infrastructure. Did work on both Windows Forms and embeded software that the systems software interfaced with.</Col></Row>
                 <Row><Col className="text-decoration-underline">Software Engineer Intern</Col></Row>
                 <Row><Col>Updated their software project site for tracking Software Change reqests.</Col></Row>
@@ -45,7 +45,7 @@ const Work = ()=>
             <Col>
                 <Row><Col className="fw-bold">SyncSum</Col></Row>
                 <Row><Col className="text-decoration-underline">Software Engineer</Col></Row>
-                <Row><Col>Start up Project for a Ruby on Rails Applicant tracking system</Col></Row>
+                <Row><Col>A start up Ruby on Rails applicant tracking system</Col></Row>
             </Col>
         </Row>
         
