@@ -5,7 +5,19 @@ const Projects = ()=>
 {
     return(
     <Container>
-        
+        <Row><Col className="fw-bold">Freelancing</Col></Row>
+        <Row>
+            <Col></Col>
+        </Row>
+        <Row>
+            <Col></Col>
+        </Row>
+        <Row>
+            <Col></Col>
+        </Row>
+        <Row>
+            <Col></Col>
+        </Row>
     </Container>
     );
 } 
