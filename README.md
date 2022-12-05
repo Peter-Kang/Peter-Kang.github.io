@@ -6,8 +6,12 @@ Github Pages
 Boot Strap
 
 ## Running
-After changes are made run
+After changes are made, to get it on github branch, run:
 ```bash
 npm run deploy
 ```
-To get it on github branch
+Or locally
+```bash
+npm start
+```
+
