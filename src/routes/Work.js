@@ -48,7 +48,11 @@ const Work = ()=>
                 <Row><Col>A start up Ruby on Rails applicant tracking system</Col></Row>
             </Col>
         </Row>
-        
+        <Row className="justify-content-center">
+            <Col md={8} sm={8} xs={10} className="text-center">
+                Refferences Given Upon Request
+            </Col>
+        </Row>
     </Container>
     );
 } 
