@@ -21,7 +21,7 @@ const Work = ()=>
             <Col>
                 <Row><Col className="fw-bold">Mindex</Col></Row>
                 <Row><Col className="text-decoration-underline">Software Engineer</Col></Row>
-                <Row><Col>Connected Microservices and platforms with Kafka consumers and REST api calls. Focused on documentation, code reviews, and resolving software performance bottlenecks. Large .Net Codebase with several teams and departments.</Col></Row>
+                <Row><Col>Scrum/Agile setting. Connected Microservices and platforms with Kafka consumers and REST api calls. Focused on documentation, code reviews, and resolving software performance bottlenecks. Large .Net Codebase with several teams and departments.</Col></Row>
             </Col>
         </Row>
         <br/>
