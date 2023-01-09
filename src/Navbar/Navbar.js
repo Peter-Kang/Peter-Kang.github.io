@@ -12,7 +12,7 @@ function siteNavBar() {
           <Nav className="me-auto">
             <Nav.Link href="./">Home</Nav.Link>
             <Nav.Link href="./#/Projects">Projects</Nav.Link>
-            <Nav.Link href="./#/Work">Work</Nav.Link>
+            <Nav.Link href="./#/Resume">Resume</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

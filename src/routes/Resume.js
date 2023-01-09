@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Image from "react-bootstrap/Image"
 
-const Work = ()=>
+const Resume = ()=>
 {
     return(
     <Container>
@@ -22,6 +22,8 @@ const Work = ()=>
                 <Row><Col className="fw-bold">Mindex</Col></Row>
                 <Row><Col className="text-decoration-underline">Software Engineer</Col></Row>
                 <Row><Col>Scrum/Agile setting. Connected Microservices and platforms with Kafka consumers and REST api calls. Focused on documentation, code reviews, and resolving software performance bottlenecks. Large .Net Codebase with several teams and departments.</Col></Row>
+                <Row><Col>Microservices architecture. AngularJS frontend hosted in Weblogic. Interfaces with .Net services hosted in IIS. </Col></Row>
+                <Row><Col>Focused on documenting and sharing organized information. Along with providing feedback and input on design decisions.</Col></Row>
             </Col>
         </Row>
         <br/>
@@ -31,11 +33,14 @@ const Work = ()=>
                 <Row><Col className="fw-bold">QVI</Col></Row>
                 <Row><Col className="text-decoration-underline">Senior Software Engineer</Col></Row>
                 <Row><Col>Lead software projects like temperature corrections and event driven actions. Mentored other software engineers.</Col></Row>
+                <Row><Col>Delgated work to other engineers and helped other engineers develop skills.</Col></Row>
                 <Row><Col className="text-decoration-underline">Software Engineer</Col></Row>
-                <Row><Col>Worked on Systems Software to control metrology machines. Added a Pub/Sub implementation in Common Language Infrastructure. The code base is a large c++/c#/cli project with several teams built up over the course of 30+ years. Did work on both Windows Forms and embedded software that the systems software interfaced with.</Col></Row>
+                <Row><Col>Worked on Systems Software on metrology machines. Added a Pub/Sub implementation in Common Language Infrastructure. The code base is a large C++/C#/common language Infrastructure project with several teams built up over the course of 30+ years. Did work on both Windows Forms and embedded software that the systems software interfaced with.</Col></Row>
+                <Row><Col>Got the chance to collaborate with scientist, marketing, product managers, and other engineers. </Col></Row>
                 <Row><Col className="text-decoration-underline">Software Engineer Intern</Col></Row>
                 <Row><Col>Updated their software project site for tracking Software Change reqests.</Col></Row>
                 <Row><Col>Created a .Net MVC5 site done in a MVVM pattern to replace the perfect tracker site.</Col></Row>
+                <Row><Col>Worked with people throughout the company and took input/feedback to update the existing software to better impact thier workflow</Col></Row>
             </Col>
         </Row>
         
@@ -46,6 +51,7 @@ const Work = ()=>
                 <Row><Col className="fw-bold">SyncSum</Col></Row>
                 <Row><Col className="text-decoration-underline">Software Engineer</Col></Row>
                 <Row><Col>A start up Ruby on Rails applicant tracking system</Col></Row>
+                <Row><Col>Worked with 3 other people, primarily worked on backend Rails</Col></Row>
             </Col>
         </Row>
         <br/>
@@ -58,4 +64,4 @@ const Work = ()=>
     );
 } 
 
-export default Work;
+export default Resume;
