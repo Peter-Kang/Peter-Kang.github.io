@@ -4,6 +4,10 @@ import Image from "react-bootstrap/Image"
 
 const Coffee = ()=>
 {
+    return     
+    <Container>
+        
+    </Container>
 }
 
 export default Coffee;
