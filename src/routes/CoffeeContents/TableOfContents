@@ -1,0 +1,12 @@
+import React from "react";
+import { Container } from "react-bootstrap";
+
+
+const TableOfContents = () => {
+    return (
+    <Container>
+    </Container>
+    )
+}
+
+export default TableOfContents;

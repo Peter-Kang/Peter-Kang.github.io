@@ -1,13 +1,18 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import Image from "react-bootstrap/Image"
-
+import { Container } from "react-bootstrap";
+import CoffeeIntro from "./CoffeeContents/Intro";
+import CoffeeOverview from "./CoffeeContents/Overview";
+import TableOfContents from "./CoffeeContents/TableOfContents"
 const Coffee = ()=>
 {
-    return     
+    return (    
     <Container>
-        
+        <br/>
+        <CoffeeIntro/>
+        <br/>
+        <CoffeeOverview/>
     </Container>
+    )
 }
 
 export default Coffee;
