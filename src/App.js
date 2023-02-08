@@ -4,6 +4,7 @@ import Home from "./routes/Home";
 import Resume from "./routes/Resume";
 import Projects from "./routes/Projects";
 import Navbar from './Navbar/Navbar';
+import Coffee from "./routes/Coffee"
 
 function App() {
   return (
