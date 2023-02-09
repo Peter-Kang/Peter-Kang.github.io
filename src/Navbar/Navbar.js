@@ -3,6 +3,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 
+
 function siteNavBar() {
   return (
     <Navbar bg="dark" variant="dark" expand="sm" collapseOnSelect={true}>

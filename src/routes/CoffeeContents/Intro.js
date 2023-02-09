@@ -15,6 +15,6 @@ const CoffeeIntro = ()=>
         </Container>
 
     )
-}
+};
 
 export default CoffeeIntro;

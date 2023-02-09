@@ -2,12 +2,13 @@ import React from "react";
 import { Container } from "react-bootstrap";
 import CoffeeIntro from "./CoffeeContents/Intro";
 import CoffeeOverview from "./CoffeeContents/Overview";
-import TableOfContents from "./CoffeeContents/TableOfContents"
+import TableOfContentsSideBarContainer from "./CoffeeContents/ToC"
+
 const Coffee = ()=>
 {
     return (    
     <Container>
-        <br/>
+        <TableOfContentsSideBarContainer/>
         <CoffeeIntro/>
         <br/>
         <CoffeeOverview/>
