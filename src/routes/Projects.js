@@ -5,9 +5,6 @@ const Projects = ()=>
 {
     return(
     <Container>
-        <Row><Col className="fw-bold"> pkang.dev </Col></Row>
-        <Row><Col>This site! Done in React and github pages</Col></Row>
-
         <Row><Col className="fw-bold"> MTG Draft App </Col></Row>
         <Row><Col>AngularJS Express web app for magic the gathering Drafting</Col></Row>
         <Row><Col>Worked with a friend on putting together an app to draft magic the gathering packs.</Col></Row>
