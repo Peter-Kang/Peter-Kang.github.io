@@ -8,7 +8,7 @@ const GaggiuinoComponents = ()=>
 {
     return (
     <Container>
-        <h2><a id="components">Components</a></h2>
+        <h2><a id="components"><u> Components</u></a></h2>
         <h4><a id="powersupply">Power Supply</a></h4>
         <body>
             For the power supply, a AC-DC 5V 2A switching power supply module instead of the recommened 12v/1A power supply and 12v to 5v stepdown. 

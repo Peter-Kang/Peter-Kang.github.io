@@ -6,7 +6,7 @@ const CoffeeIntro = ()=>
 {
     return (
         <Container>
-            <h2><a id="gaggiuino">Gaggiuino</a></h2>
+            <h2><a id="gaggiuino"><u>Gaggiuino</u></a></h2>
             <body>
                 <Row><Col>Gaggiuino is a project created by the gaggia classic community to modify the Gaggia classic and is organized by Zer0-bit. The project adds a microcontroller to give temperature and pressure control to the gaggia classic espresso machine.</Col></Row>
                 <Row><Col>A link to their community documentation: <a href="https://gaggiuino.github.io/#/">https://gaggiuino.github.io</a></Col></Row>
