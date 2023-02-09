@@ -13,8 +13,11 @@ function siteNavBar() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="./">Home</Nav.Link>
-            <Nav.Link href="./#/Projects">Projects</Nav.Link>
             <Nav.Link href="./#/Resume">Resume</Nav.Link>
+            <NavDropdown title="Projects" menuVariant="dark">
+              <NavDropdown.Item href="./#/Projects">Group Projects</NavDropdown.Item>
+              <NavDropdown.Item href="./#/Coffee">Gaggiuino</NavDropdown.Item>
+            </NavDropdown>
           </Nav>
         </Navbar.Collapse>
       </Container>

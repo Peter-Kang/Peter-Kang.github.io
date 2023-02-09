@@ -1,7 +1,6 @@
 import React from "react";
 import { Container } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
-import Carousel from 'react-bootstrap/Carousel';
 
 
 const GaggiuinoComponents = ()=>
@@ -69,11 +68,16 @@ const GaggiuinoComponents = ()=>
                 <Image class ="alignmnet-center figure-img img-fluid" src="./CoffeeMachineImages/IMG_2867.png" height="25%" width="25%" alt="T Fitting"/>
                 <figcaption class="figure-caption">T Fitting, joining 3 orange-red tubes</figcaption>
             </figure>
-            Attaching the sensor to the existing pump line gives the micro controller a pressure reading and turns on the off the pump. 
-            This creates automated pressure control via the micro controller.
+            Attaching the sensor to the existing pump line gives the micro controller a pressure reading. 
             <figure class="figure" className="text-center">
                 <Image class ="alignmnet-center figure-img img-fluid" src="./CoffeeMachineImages/IMG_2868.png" height="25%" width="25%" alt="Pressure Sensor"/>
                 <figcaption class="figure-caption">Pressure Sensor, the hex shaped fitting attached to the orange-red tube</figcaption>
+            </figure>
+            After getting a reading from the pressure sensor, the micro controller then sends signals to a dimmer that adjsuts the pressure of the pump.
+            This creates automated pressure control via the micro controller.
+            <figure class="figure" className="text-center">
+                <Image class ="alignmnet-center figure-img img-fluid" src="./CoffeeMachineImages/dimmer.jpg" height="25%" width="25%" alt="dimmer"/>
+                <figcaption class="figure-caption">Dimmer</figcaption>
             </figure>
         </body>
         <br/>
