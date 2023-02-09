@@ -6,7 +6,7 @@ const CoffeeOverview = ()=>
 {
     return (
         <Container>
-            <h2>Overview of the wiring</h2>
+            <h2><a id="overview">Overview of the wiring</a></h2>
             <body>
 The components of the upgrade will have: power, microcontoller, display, temperature/boiler, and pressure/pump.
             </body>
