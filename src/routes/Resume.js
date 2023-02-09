@@ -22,8 +22,8 @@ const Resume = ()=>
                 <Row><Col className="fw-bold">Mindex</Col></Row>
                 <Row><Col className="text-decoration-underline">Software Engineer</Col></Row>
                 <Row><Col>Scrum/Agile setting. Connected Microservices and platforms with Kafka consumers and REST api calls. Focused on documentation, code reviews, and resolving software performance bottlenecks. Large .Net Codebase with several teams and departments.</Col></Row>
-                <Row><Col>Microservices architecture. AngularJS frontend hosted in Weblogic. Interfaces with .Net services hosted in IIS. </Col></Row>
-                <Row><Col>Focused on documenting and sharing organized information. Along with providing feedback and input on design decisions.</Col></Row>
+                <Row><Col>Microservices architecture. AngularJS frontend hosted in Weblogic. Interfaces with .Net services hosted in IIS. These applications were deployed in a mix enviroment between private datacenters and Azure.</Col></Row>
+                <Row><Col>Shared organized information in the form of diagrams, meetings, and confluence pages. Provided feedback and input on design decisions.</Col></Row>
             </Col>
         </Row>
         <br/>
