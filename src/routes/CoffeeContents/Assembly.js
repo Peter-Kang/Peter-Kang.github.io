@@ -8,7 +8,7 @@ const CoffeeAssembly = ()=>
         <Container>
             <h2><a id="Finish"><u>Finish</u></a></h2>
             <body>
-                All together the finished project creates a consistent cup of espresso. It allows for a pre-infusion step, and can adjust the pressure at different stages. 
+            The finished project creates a consistent cup of espresso. It allows for a pre-infusion step, and can adjust the pressure at different stages. 
             </body>
             <br/>
             <div className="d-flex align-items-center justify-content-center">
