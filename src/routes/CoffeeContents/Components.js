@@ -10,7 +10,7 @@ const GaggiuinoComponents = ()=>
         <h2><a id="components"><u> Components</u></a></h2>
         <h4><a id="powersupply">Power Supply</a></h4>
         <body>
-            For the power supply, a AC-DC 5V 2A switching power supply module instead of the recommened 12v/1A power supply and 12v to 5v stepdown. 
+            For the power supply, a AC-DC 5V 2A switching power supply module instead of the recommended 12v/1A power supply and 12v to 5v stepdown. 
             This was mainly because at the time it is cheaper, and was lucky enough to get one that was reliable.
             <br/>
             <figure class="figure" className="text-center">
@@ -64,6 +64,7 @@ const GaggiuinoComponents = ()=>
             A 20g VST basket is also used, whereas a traditional basket is 14g. 
             The larger basket allows for double shots of espresso to be pulled from the machine.
             Fitting the pump sensor into the exisiting pump setup requires a T fitting. 
+
             <figure class="figure" className="text-center">
                 <Image class ="alignmnet-center figure-img img-fluid" src="./CoffeeMachineImages/IMG_2867.png" height="25%" width="25%" alt="T Fitting"/>
                 <figcaption class="figure-caption">T Fitting, joining 3 orange-red tubes</figcaption>
@@ -73,7 +74,7 @@ const GaggiuinoComponents = ()=>
                 <Image class ="alignmnet-center figure-img img-fluid" src="./CoffeeMachineImages/IMG_2868.png" height="25%" width="25%" alt="Pressure Sensor"/>
                 <figcaption class="figure-caption">Pressure Sensor, the hex shaped fitting attached to the orange-red tube</figcaption>
             </figure>
-            After getting a reading from the pressure sensor, the micro controller then sends signals to a dimmer that adjsuts the pressure of the pump.
+            After getting a reading from the pressure sensor, the micro controller then sends signals to a dimmer that adjusts the pressure of the pump.
             This creates automated pressure control via the micro controller.
             <figure class="figure" className="text-center">
                 <Image class ="alignmnet-center figure-img img-fluid" src="./CoffeeMachineImages/dimmer.jpg" height="25%" width="25%" alt="dimmer"/>
