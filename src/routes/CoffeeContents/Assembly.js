@@ -8,8 +8,7 @@ const CoffeeAssembly = ()=>
         <Container>
             <h2><a id="Finish"><u>Finish</u></a></h2>
             <body>
-            The finished project creates a consistent cup of espresso. It allows for a pre-infusion step, and can adjust the pressure at different stages. 
-            </body>
+            Overall, the Gaggiuino project helps create a consistent cup of espresso, and the upgrade allows for a pre-infusion step and adjustable pressure at different stages, enhancing the quality of the espresso.            </body>
             <br/>
             <div className="d-flex align-items-center justify-content-center">
                 <figure class="figure" className="text-center">
