@@ -11,7 +11,7 @@ const GaggiuinoComponents = ()=>
         <h4><a id="powersupply">Power Supply</a></h4>
         <body>
             For the power supply, a AC-DC 5V 2A switching power supply module instead of the recommended 12v/1A power supply and 12v to 5v stepdown. 
-            This was mainly because at the time it is cheaper, and was lucky enough to get one that was reliable.
+            This was mainly because at the time it is cheaper, and was lucky enough to get one that was reliable. This take live and neutral from the machine's front power switch and creates a 5v power and ground from it.
             <br/>
             <figure class="figure" className="text-center">
                 <Image class ="alignmnet-center figure-img img-fluid" src="./CoffeeMachineImages/IMG_2741.png" height="25%" width="25%" alt="On The Top left is the power supply that converts live and neutral to 5v and ground"/>
