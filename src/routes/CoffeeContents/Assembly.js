@@ -19,7 +19,7 @@ const CoffeeAssembly = ()=>
                     <figcaption class="figure-caption">Bottomless Portafilter and Gaggiuino in full use</figcaption>
                 </figure>
             </div>
-            <h2><a id="PostMortem1"><u>Post Mortem Arduino Microcontroller</u></a></h2>
+            <h2><a id="PostMortem1"><u>Post Mortem Arduino Micro Controller</u></a></h2>
             <body>
                 During the build it went more smoothly then I though, I tested what I could at each step. 
                 It did take longer but I was sure of what components were being added and how they interacted with the existing system and if it made sense.

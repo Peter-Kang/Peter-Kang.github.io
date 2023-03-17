@@ -6,7 +6,7 @@ const Stm32Upgrade = ()=>
 {
     return (
         <Container>
-            <h2><a id="stm32upgrade"><u>STM32 Microcontroller Upgrade</u></a></h2>
+            <h2><a id="stm32upgrade"><u>STM32 Micro Controller Upgrade</u></a></h2>
             <body>
                 The STM32 Upgrade adds an additional dimmer to the machine and an analog to digital converter. 
                 The dimmer is to control the pump better and the converter is for the pressure sensor. 
@@ -17,7 +17,7 @@ const Stm32Upgrade = ()=>
                     On the left red circle we have the new dimmer added and on the right red circle we have the analog to digital converter added.
                 </figcaption>
             </figure>
-            <h2><a id="PostMortem2"><u>Post Mortem STM32 Microcontroller</u></a></h2>
+            <h2><a id="PostMortem2"><u>Post Mortem STM32 Micro Controller</u></a></h2>
             <body>
                 This upgrade was alot more difficult then expected because I also wanted to redo some of the wiring. 
                 Since It was previously all in the machine and having the parts outside lets me visually see what parts turn on at different points better.
@@ -36,7 +36,7 @@ const Stm32Upgrade = ()=>
                         The circles show how the two ports connect to the plate.
                     </figcaption>
                 </figure>
-                To separate them I used a knife to chisel out and seperate each side. 
+                To separate them I used a knife to chisel out and separate each side. 
                 I made sure to avoid going over the screw holes, since the screws could link the two sides again.
                 <figure class="figure" className="text-center">
                     <Image  src="./CoffeeMachineImages/IMG_2944.png" width="25%" height="25%"></Image>
