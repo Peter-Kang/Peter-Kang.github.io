@@ -6,7 +6,7 @@ const CoffeeAssembly = ()=>
 {
     return (
         <Container>
-            <h2><a id="Finish"><u>Finish</u></a></h2>
+            <h2><a id="Done"><u>Done</u></a></h2>
             <body>
                 Overall, the Gaggiuino project helps create a consistent cup of espresso, and the upgrade allows for a pre-infusion step and adjustable pressure at different stages, enhancing the quality of the espresso.
             </body>
@@ -41,7 +41,7 @@ const CoffeeAssembly = ()=>
                 So that indicated that the machine was losing heat to the mounting points at the bottom to conduction. 
                 To address the conduction loss I found some insulated plastic spacer that fix the mounting holes. 
                 <figure class="figure" className="text-center">
-                    <Image class ="figure-img img-fluid" src="./CoffeeMachineImages/IMG_2947.png" height="25%" width="25%" alt="Spacers"/>
+                    <Image class ="figure-img img-fluid" src="./CoffeeMachineImages/IMG_2947.png" height="35%" width="35%" alt="Spacers"/>
                     <figcaption class="figure-caption">Insulated Plastic Spacers</figcaption>
                 </figure>
                 Since I was going to take apart the machine might as well do the STM32 upgrade.

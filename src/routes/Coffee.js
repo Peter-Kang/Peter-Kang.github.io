@@ -4,6 +4,7 @@ import CoffeeIntro from "./CoffeeContents/Intro";
 import CoffeeOverview from "./CoffeeContents/Overview";
 import GaggiuinoComponents from "./CoffeeContents/Components"
 import CoffeeAssembly from "./CoffeeContents/Assembly"
+import Stm32Upgrade from "./CoffeeContents/Stm32Upgrade"
 
 const Coffee = ()=>
 {
@@ -16,6 +17,8 @@ const Coffee = ()=>
         <GaggiuinoComponents/>
         <br/>
         <CoffeeAssembly/>
+        <br/>
+        <Stm32Upgrade/>
         <br/><br/><br/>
     </Container>
     )
