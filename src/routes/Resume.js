@@ -36,11 +36,12 @@ const Resume = ()=>
                 <Row><Col>Delgated work to other engineers and helped other engineers develop skills.</Col></Row>
                 <Row><Col className="text-decoration-underline">Software Engineer</Col></Row>
                 <Row><Col>Worked on Systems Software on metrology machines. Added a Pub/Sub implementation in Common Language Infrastructure. The code base is a large C++/C#/common language Infrastructure project with several teams built up over the course of 30+ years. Did work on both Windows Forms and embedded software that the systems software interfaced with.</Col></Row>
+                <Row><Col>Metrology machines used vector math(3d point data), various cameras with various color modes (RGB,U8/grey scale,and yuv), and various servos.</Col></Row>
                 <Row><Col>Got the chance to collaborate with scientist, marketing, product managers, and other engineers. </Col></Row>
                 <Row><Col className="text-decoration-underline">Software Engineer Intern</Col></Row>
                 <Row><Col>Updated their software project site for tracking Software Change reqests.</Col></Row>
                 <Row><Col>Created a .Net MVC5 site done in a MVVM pattern to replace the perfect tracker site.</Col></Row>
-                <Row><Col>Worked with people throughout the company and took input/feedback to update the existing software to better impact thier workflow</Col></Row>
+                <Row><Col>Worked with people throughout the company and took input/feedback to update the existing software to better impact their workflow</Col></Row>
             </Col>
         </Row>
         
