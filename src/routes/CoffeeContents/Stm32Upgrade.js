@@ -22,7 +22,7 @@ const Stm32Upgrade = ()=>
                 This upgrade was alot more difficult then expected because I also wanted to redo some of the wiring. 
                 Since It was previously all in the machine and having the parts outside lets me visually see what parts turn on at different points better.
                 <br/>
-                <h4><a id="debugging"><u>Debugging</u></a></h4>
+                <h4><a id="debuggingStm32"><u>Debugging</u></a></h4>
                 <i>(more good stuff)</i>
                 <br/>
                 During the assembly a few of the wires were connected to the wrong point and I didn't realize it until I tested each of those points. 
