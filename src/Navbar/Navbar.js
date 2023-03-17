@@ -15,7 +15,7 @@ function siteNavBar() {
             <Nav.Link href="./">Home</Nav.Link>
             <Nav.Link href="./#/Resume">Resume</Nav.Link>
             <NavDropdown title="Projects" menuVariant="dark">
-              <NavDropdown.Item href="./#/Projects">Group Projects</NavDropdown.Item>
+              <NavDropdown.Item href="./#/Projects">Collaborations</NavDropdown.Item>
               <NavDropdown.Item href="./#/Coffee">Gaggiuino</NavDropdown.Item>
             </NavDropdown>
           </Nav>

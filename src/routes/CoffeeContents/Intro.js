@@ -8,9 +8,9 @@ const CoffeeIntro = ()=>
         <Container>
             <h2><a id="gaggiuino"><u>Gaggiuino</u></a></h2>
             <body>
-                <Row><Col>Gaggiuino is a project created by the Gaggia Classic community to add more consistency to the espresso machine and is organized by Zer0-bit. The project adds a micro controller to give temperature and pressure control to the Gaggia Classic espresso machine.</Col></Row>
-                <Row><Col>A link to their community documentation: <a href="https://gaggiuino.github.io/#/">https://gaggiuino.github.io</a></Col></Row>
-                <Row><Col>The community documentation covers installation and wiring. This page will serve as a walk through of my implementation and components.</Col></Row>
+                <Row><Col>Gaggiuino is a community-driven project that aims to enhance the Gaggia Classic espresso machine by adding a microcontroller to regulate temperature and pressure.</Col></Row>
+                <Row><Col>The project is organized by Zer0-bit and has created a detailed documentation that covers installation and wiring, which can be accessed through their community website: <a href="https://gaggiuino.github.io/#/">https://gaggiuino.github.io</a></Col></Row>
+                <Row><Col>The community documentation covers installation and wiring. This article will provide a walkthrough of our implementation and the components we used for the upgrade.</Col></Row>
             </body>
         </Container>
 
