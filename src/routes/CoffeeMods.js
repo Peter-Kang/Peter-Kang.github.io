@@ -18,8 +18,7 @@ const CoffeeMods = ()=>
             <h4><a id="Ring"><u>Sette 270 Adjustment Assembly</u></a></h4>
             
         </Container>
-
     )
 };
 
-export default CoffeeIntro;
+export default CoffeeMods;
