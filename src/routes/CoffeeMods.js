@@ -123,9 +123,9 @@ const CoffeeMods = () => {
             <h2> <a id="Excel"> <u> Table of Everything and Costs</u> </a> </h2>
             The listed cost are rounded to the nearest half dollar and were the price I paid at the time.
             <br />
-            The total cost of everything ended up being about $1180.5.
+            The total cost of everything ended up being about $1225.
             <br />
-            The total cost of modding the espresso machine is $330.5.
+            The total cost of modding the espresso machine is $375.
             <Table striped bordered hover>
                 <thead>
                     <tr>
@@ -289,6 +289,30 @@ const CoffeeMods = () => {
                         <td>Gagguino</td>
                         <td align="center">11</td>
                         <td><a href="https://www.aliexpress.us/item/2255800570317172.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
+                    </tr>
+                    <tr>
+                        <td>6mm T shape fitting</td>
+                        <td>Gagguino</td>
+                        <td align="center">4</td>
+                        <td><a href="https://www.aliexpress.us/item/3256803959441921.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US">Link</a></td>
+                    </tr>
+                    <tr>
+                        <td>Braided Hose</td>
+                        <td>Gagguino</td>
+                        <td align="center">20</td>
+                        <td><a href="https://www.fiyo.co.uk/saeco-hose-silicone-hose-5-x-8-9-for-coffee-machine-16000380-42169">Link</a></td>
+                    </tr>
+                    <tr>
+                        <td>6mm Barb x 1/4"</td>
+                        <td>Gagguino</td>
+                        <td align="center">1.5</td>
+                        <td><a href="https://www.aliexpress.us/item/2251832641599579.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US">Link</a></td>
+                    </tr>
+                    <tr>
+                        <td>Plier and 100 clamps</td>
+                        <td>Gagguino</td>
+                        <td align="center">19</td>
+                        <td><a href="https://www.aliexpress.us/item/3256803154822955.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US">Link</a></td>
                     </tr>
                 </tbody>
             </Table>
