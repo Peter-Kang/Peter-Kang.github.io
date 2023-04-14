@@ -5,6 +5,7 @@ import Resume from "./routes/Resume";
 import Projects from "./routes/Projects";
 import Navbar from './Navbar/Navbar';
 import Coffee from "./routes/Coffee"
+import CoffeeMods from "./routes/CoffeeMods"
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/Resume" element={<Resume />} />
         <Route path="/Projects" element={<Projects />} />
         <Route path="/Coffee" element={<Coffee/>}/>
+        <Route path="/CoffeeMods" element={<CoffeeMods/>}/>
       </Routes>
     </>
   );
