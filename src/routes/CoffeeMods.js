@@ -3,24 +3,23 @@ import { Container, Row, Col } from "react-bootstrap";
 import Image from "react-bootstrap/Image"
 import Table from 'react-bootstrap/Table';
 
-const CoffeeMods = ()=>
-{
+const CoffeeMods = () => {
     return (
         <Container>
             <h1>Coffee Machine Mods </h1>
             <p>
-                This is my espresso set up and mods. 
+                This is my espresso set up and mods.
                 At the bottom of the page will be a table with all of the mods and links for the parts. Along with roughly the prices I paid for them
             </p>
             <h2><a id="Machine"><u>Machine Gaggia Classic Pro</u></a></h2>
             <Row className="justify-content-center">
                 <Col className="col-md-6 col-12">
-                    <p> 
-                        The main machine I use is the Gaggia Classic Pro. 
-                        This single boiler machine has been known to be a very good home espresso starter machine. 
-                        This is due to the price level and performance of the machine. 
-                        <br/>
-                        <br/>
+                    <p>
+                        The main machine I use is the Gaggia Classic Pro.
+                        This single boiler machine has been known to be a very good home espresso starter machine.
+                        This is due to the price level and performance of the machine.
+                        <br />
+                        <br />
                         Like many this was where my journey started.
                     </p>
                 </Col>
@@ -60,14 +59,14 @@ const CoffeeMods = ()=>
 
             <Row>
                 <Col className="col-md-6 col-12">
-                    <p> 
-                    The temperature loss to conduction was very noticeable in form of warmer parts of the machine where the boiler contacted the frame. 
-                    To address the issue spacers helped reduce the drifting by about half.
-                    Thermal spacers to help with thermal drift of the boiler.
+                    <p>
+                        The temperature loss to conduction was very noticeable in form of warmer parts of the machine where the boiler contacted the frame.
+                        To address the issue spacers helped reduce the drifting by about half.
+                        Thermal spacers to help with thermal drift of the boiler.
                     </p>
                 </Col>
                 <Col className="col-md-6 col-12">
-                <figure className="figure text-center">
+                    <figure className="figure text-center">
                         <Image className="alignmnet-center figure-img img-fluid" src="./CoffeeMachineImages/IMG_2947.png" height="50%" width="50%" alt="" />
                         <figcaption className="figure-caption">Putting together the Gagguino</figcaption>
                     </figure>
@@ -77,8 +76,8 @@ const CoffeeMods = ()=>
             <h4><a id="Gagguino"><u>Gagguino</u></a></h4>
             <Row>
                 <Col className="col-md-6 col-12" >
-                    This mod adds a micro controller for temperature and pressure control. 
-                    I have an entire <a href="./#/Coffee">page</a> dedicated to the implementation. 
+                    This mod adds a micro controller for temperature and pressure control.
+                    I have an entire <a href="./#/Coffee">page</a> dedicated to the implementation.
                     This is the most involved mod and was pretty enjoyable putting it together.
                 </Col>
                 <Col className="col-md-6 col-12">
@@ -89,7 +88,7 @@ const CoffeeMods = ()=>
                 </Col>
             </Row>
 
-            <h2><a id="Portafilter"><u>Portafilter Mods </u></a></h2> 
+            <h2><a id="Portafilter"><u>Portafilter Mods </u></a></h2>
             For the portafilter, I used a wooden bottomless portafilter with VST 20g basket. To guide the coffee grinds in the portafilter I used a 58mm funnel.
             <Row>
                 <Col className="col-md-6 col-12">
@@ -105,13 +104,13 @@ const CoffeeMods = ()=>
                     </figure>
                 </Col>
             </Row>
-            
-            
+
+
             <h2><a id="Grinder"><u>Grinder Sette 30/270</u></a></h2>
             <Row>
                 <Col >
                     For my grinder I got the Sette 30 but the grind setting I used were between two of their step sizes.
-                    To reach the precision I wanted I swapped out the burrs with a 270 adjustment assembly. 
+                    To reach the precision I wanted I swapped out the burrs with a 270 adjustment assembly.
                     I didn't like the interface of the full 270 version because I wanted a simple grind button so this was a happy middle ground.
                 </Col>
             </Row>
@@ -119,13 +118,13 @@ const CoffeeMods = ()=>
                 <Image className="alignmnet-center figure-img img-fluid" src="./CoffeeMachineImages/IMG_3016.png" height="25%" width="25%" alt="Modded Grinder" />
                 <figcaption className="figure-caption">Sette 30 with a Sette 270 micro adjustment assembly</figcaption>
             </figure>
-            
-            
+
+
             <h2> <a id="Excel"> <u> Table of Everything and Costs</u> </a> </h2>
             The listed cost are rounded to the nearest half dollar and were the price I paid at the time.
-            <br/>
+            <br />
             The total cost of everything ended up being about $1180.5.
-            <br/>
+            <br />
             The total cost of modding the espresso machine is $330.5.
             <Table striped bordered hover>
                 <thead>
@@ -137,196 +136,159 @@ const CoffeeMods = ()=>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr><td>Gaggia Classic</td> <td>Machine</td>    <td>400</td>    <td><a href="https://a.co/d/eCRD4Nn">https://a.co/d/eCRD4Nn</a></td></tr>
-                    <tr><td>Timemore Scale</td> <td>Scale</td>      <td>60</td>     <td><a href="https://a.co/d/a1va0LR">https://a.co/d/a1va0LR</a></td></tr>
+                    <tr><td>Gaggia Classic</td> <td>Machine</td>    <td align="center" >400</td>    <td><a href="https://a.co/d/eCRD4Nn">Link</a></td></tr>
+                    <tr><td>Timemore Scale</td> <td>Scale</td>      <td align="center">60</td>     <td><a href="https://a.co/d/a1va0LR">Link</a></td></tr>
                     <tr>
                         <td>Sette 30 Conical Burr Grinder</td>
                         <td>Grinder</td>
-                        <td align="right">300</td>
-                        <td><a href="https://a.co/d/3IUoMVn">https://a.co/d/3IUoMVn</a></td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">300</td>
+                        <td><a href="https://a.co/d/3IUoMVn">Link</a></td>
                     </tr>
                     <tr>
                         <td>Sette 270 Series Adjustment Assembly</td>
                         <td>Grinder</td>
-                        <td align="right">90</td>
-                        <td><a href="https://shop.baratza.com/sette-270-270w-adjustment-assembly">https://shop.baratza.com/sette-270-270w-adjustment-assembly</a></td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">90</td>
+                        <td><a href="https://shop.baratza.com/sette-270-270w-adjustment-assembly">Link</a></td>
                     </tr>
                     <tr>
                         <td>VST 20g basket</td>
                         <td>Portafilter</td>
-                        <td align="right">35</td>
-                        <td><a href="https://www.chriscoffee.com/products/vst-precision-insert-baskets?variant=12272882319396">https://www.chriscoffee.com/products/vst-precision-insert-baskets?variant=12272882319396</a></td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">35</td>
+                        <td><a href="https://www.chriscoffee.com/products/vst-precision-insert-baskets?variant=12272882319396">Link</a></td>
                     </tr>
                     <tr>
                         <td>Bottomless portafilter</td>
                         <td>Portafilter</td>
-                        <td align="right">61</td>
-                        <td><a href="https://a.co/d/iwArk2d">https://a.co/d/iwArk2d</a></td>
-
+                        <td align="center">61</td>
+                        <td><a href="https://a.co/d/iwArk2d">Link</a></td>
                     </tr>
                     <tr>
                         <td>58mm Espresso Dosing Funnel</td>
                         <td>Portafilter</td>
-                        <td align="right">20</td>
-                        <td><a href="https://a.co/d/69ZUo27">https://a.co/d/69ZUo27</a></td>
+                        <td align="center">20</td>
+                        <td><a href="https://a.co/d/69ZUo27">Link</a></td>
                     </tr>
                     <tr>
                         <td>Wooden Tamp</td>
                         <td>Portafilter</td>
-                        <td align="right">16</td>
-                        <td>https://www.amazon.com/gp/product/B08M5MGRT8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;th=1</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">16</td>
+                        <td>
+                            <a href="https://www.amazon.com/gp/product/B08M5MGRT8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;th=1">
+                                Link
+                            </a>
+                        </td>
                     </tr>
                     <tr>
                         <td>Wooden Distributor</td>
                         <td>Portafilter</td>
-                        <td align="right">32</td>
-                        <td>https://www.amazon.com/gp/product/B08787HYD1/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;psc=1</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">32</td>
+                        <td>
+                            <a href="https://www.amazon.com/gp/product/B08787HYD1/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;psc=1">
+                                Link
+                            </a>
+                        </td>
                     </tr>
                     <tr>
-                    <td>Drip Tray low profile</td>
-                    <td>Machine</td>
-                    <td align="right">40</td>
-                    <td>https://www.etsy.com/listing/1251956347/extended-low-profile-drip-tray-gaggia?ref=yr_purchases</td>
-                    <td align="right"></td>
-                    <td align="right"></td>
+                        <td>Drip Tray low profile</td>
+                        <td>Machine</td>
+                        <td align="center">40</td>
+                        <td><a href="https://www.etsy.com/listing/1251956347/extended-low-profile-drip-tray-gaggia?ref=yr_purchases">Link</a></td>
                     </tr>
                     <tr>
-                    <td>Spacers</td>
-                    <td>Machine</td>
-                    <td align="right">5</td>
-                    <td>https://www.amazon.com/gp/product/B07P7J5K8Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;th=1</td>
-                    <td align="right"></td>
-                    <td align="right"></td>
+                        <td>Spacers</td>
+                        <td>Machine</td>
+                        <td align="center">5</td>
+                        <td><a href="https://www.amazon.com/gp/product/B07P7J5K8Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;th=1">Link</a></td>
                     </tr>
                     <tr>
                         <td>Knock Box</td>
                         <td>Knock Box</td>
-                        <td align="right">24</td>
-                        <td>https://www.amazon.com/gp/product/B0016J76CE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;th=1</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">24</td>
+                        <td><a href="https://www.amazon.com/gp/product/B0016J76CE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;th=1">Link</a></td>
                     </tr>
                     <tr>
                         <td>3D printed parts (Control and Screen Enclosure)</td>
                         <td>Gagguino</td>
-                        <td align="right">24</td>
-                        <td>https://gaggiuino.hudsoncreativegroup.com</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">24</td>
+                        <td><a href="https://gaggiuino.hudsoncreativegroup.com">Link</a></td>
                     </tr>
                     <tr>
                         <td>STM32F411CEU6</td>
                         <td>Gagguino</td>
-                        <td align="right">5</td>
-                        <td>https://www.aliexpress.us/item/3256801269871873.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">5</td>
+                        <td><a href="https://www.aliexpress.us/item/3256801269871873.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
                     </tr>
                     <tr>
-                    <td>ST-Link V2</td>
+                        <td>ST-Link V2</td>
                         <td>Gagguino</td>
-                        <td align="right">2</td>
-                        <td>https://www.aliexpress.us/item/2251832674387981.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">2</td>
+                        <td><a href="https://www.aliexpress.us/item/2251832674387981.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
                     </tr>
                     <tr>
-                        <td>External Baord</td>
+                        <td>External Board</td>
                         <td>Gagguino</td>
-                        <td align="right">1</td>
-                        <td>https://www.aliexpress.us/item/2251832139409398.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">1</td>
+                        <td><a href="https://www.aliexpress.us/item/2251832139409398.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
                     </tr>
                     <tr>
                         <td>ADS</td>
                         <td>Gagguino</td>
-                        <td align="right">4</td>
-                        <td>https://www.aliexpress.us/item/2251832683106807.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">4</td>
+                        <td><a href="https://www.aliexpress.us/item/2251832683106807.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
                     </tr>
                     <tr>
                         <td>5v Relay 1 channel</td>
                         <td>Gagguino</td>
-                        <td align="right">0.5</td>
-                        <td>https://www.aliexpress.us/item/3256803997020234.html?srcSns=sns_Copy&amp;spreadType=socialShare&amp;bizType=ProductDetail&amp;social_params=60175236718&amp;aff_fcid=b9641649463246d68691816f28d2adb3-1681317929152-01493-_vpUdrT&amp;tt=MG&amp;aff_fsk=_vpUdrT&amp;aff_platform=default&amp;sk=_vpUdrT&amp;aff_trace_key=b9641649463246d68691816f28d2adb3-1681317929152-01493-_vpUdrT&amp;shareId=60175236718&amp;businessType=ProductDetail&amp;platform=AE&amp;terminal_id=ad156c709e06460bbe3d920d9c310a1a&amp;afSmartRedirect=y&amp;gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">0.5</td>
+                        <td><a href="https://www.aliexpress.us/item/3256803997020234.html?srcSns=sns_Copy&amp;spreadType=socialShare&amp;bizType=ProductDetail&amp;social_params=60175236718&amp;aff_fcid=b9641649463246d68691816f28d2adb3-1681317929152-01493-_vpUdrT&amp;tt=MG&amp;aff_fsk=_vpUdrT&amp;aff_platform=default&amp;sk=_vpUdrT&amp;aff_trace_key=b9641649463246d68691816f28d2adb3-1681317929152-01493-_vpUdrT&amp;shareId=60175236718&amp;businessType=ProductDetail&amp;platform=AE&amp;terminal_id=ad156c709e06460bbe3d920d9c310a1a&amp;afSmartRedirect=y&amp;gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
                     </tr>
                     <tr>
                         <td>Nextion 2.4”</td>
                         <td>Gagguino</td>
-                        <td align="right">22.5</td>
-                        <td>https://www.aliexpress.us/item/3256803271061345.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">22.5</td>
+                        <td><a href="https://www.aliexpress.us/item/3256803271061345.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
                     </tr>
                     <tr>
                         <td>MAX6675 Module + K Type Thermocouple</td>
                         <td>Gagguino</td>
-                        <td align="right">4.5</td>
-                        <td>https://www.aliexpress.us/item/2251832724065302.html?spm=a2g0s.9042311.0.0.27424c4dj1CorW&amp;gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">4.5</td>
+                        <td><a href="https://www.aliexpress.us/item/2251832724065302.html?spm=a2g0s.9042311.0.0.27424c4dj1CorW&amp;gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
                     </tr>
                     <tr>
                         <td>M4 Temperature Sensor</td>
                         <td>Gagguino</td>
-                        <td align="right">3</td>
-                        <td>https://www.aliexpress.us/item/3256804761765699.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">3</td>
+                        <td><a href="https://www.aliexpress.us/item/3256804761765699.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
                     </tr>
                     <tr>
                         <td>40DA SSR Relay</td>
                         <td>Gagguino</td>
-                        <td align="right">6</td>
-                        <td>https://www.aliexpress.us/item/2255799859110393.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">6</td>
+                        <td><a href="https://www.aliexpress.us/item/2255799859110393.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
                     </tr>
                     <tr>
-                        <td>18AWG - 1m: Black, Red &amp; White<br/>22AWG - 5m: Black, Red &amp; White<br/>26AWG - 5m: Black, Red, Blue &amp; Yellow</td>
+                        <td>18AWG - 1m: Black, Red &amp; White<br />22AWG - 5m: Black, Red &amp; White<br />26AWG - 5m: Black, Red, Blue &amp; Yellow</td>
                         <td>Gagguino</td>
-                        <td align="right">9</td>
-                        <td>https://www.aliexpress.us/item/2255800441309579.html?spm=a2g0s.9042311.0.0.27424c4dj1CorW&amp;gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">9</td>
+                        <td><a href="https://www.aliexpress.us/item/2255800441309579.html?spm=a2g0s.9042311.0.0.27424c4dj1CorW&amp;gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
                     </tr>
                     <tr>
                         <td>Spade connectors M/F 6.3mm</td>
                         <td>Gagguino</td>
-                        <td align="right">2</td>
-                        <td>https://www.aliexpress.us/item/3256802579044914.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">2</td>
+                        <td><a href="https://www.aliexpress.us/item/3256802579044914.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
                     </tr>
                     <tr>
                         <td>RobotDYN dimmer module - Dimmer 4A-400V</td>
                         <td>Gagguino</td>
-                        <td align="right">3</td>
-                        <td>https://www.aliexpress.us/item/2251832615710334.html?spm=a2g0s.9042311.0.0.27424c4dXmyQoB&amp;gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
-                        </tr>
+                        <td align="center">3</td>
+                        <td><a href="https://www.aliexpress.us/item/2251832615710334.html?spm=a2g0s.9042311.0.0.27424c4dXmyQoB&amp;gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
+                    </tr>
                     <tr>
                         <td>Pressure sensor - 0-1.2Mpa</td>
                         <td>Gagguino</td>
-                        <td align="right">11</td>
-                        <td>https://www.aliexpress.us/item/2255800570317172.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US</td>
-                        <td align="right"></td>
-                        <td align="right"></td>
+                        <td align="center">11</td>
+                        <td><a href="https://www.aliexpress.us/item/2255800570317172.html?gatewayAdapt=glo2usa4itemAdapt&amp;_randl_shipto=US">Link</a></td>
                     </tr>
                 </tbody>
             </Table>
