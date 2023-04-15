@@ -68,7 +68,7 @@ const CoffeeMods = () => {
                 <Col className="col-md-6 col-12">
                     <figure className="figure text-center">
                         <Image className="alignmnet-center figure-img img-fluid" src="./CoffeeMachineImages/IMG_2947.png" height="50%" width="50%" alt="" />
-                        <figcaption className="figure-caption">Putting together the Gagguino</figcaption>
+                        <figcaption className="figure-caption">Thermal spacer</figcaption>
                     </figure>
                 </Col>
             </Row>
