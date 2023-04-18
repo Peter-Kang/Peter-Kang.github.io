@@ -6,7 +6,7 @@ const TeaProcess = () =>
 { 
     return (
         <Container>
-            <h1>Tea Process Notes</h1>
+            <h1>Tea Making Process</h1>
             <hr/>
             <h3>Tea Growing</h3>
             <p>
