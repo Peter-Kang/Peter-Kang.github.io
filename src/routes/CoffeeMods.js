@@ -7,6 +7,7 @@ const CoffeeMods = () => {
     return (
         <Container>
             <h1>Coffee Machine Mods </h1>
+            <hr/>
             <p>
                 This is my espresso set up and mods.
                 At the bottom of the page will be a table with all of the mods and links for the parts. Along with roughly the prices I paid for them
