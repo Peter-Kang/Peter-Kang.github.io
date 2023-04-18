@@ -18,6 +18,9 @@ function siteNavBar() {
               <NavDropdown.Item href="./#/Projects">Collaborations</NavDropdown.Item>
               <NavDropdown.Item href="./#/Coffee">Gaggiuino</NavDropdown.Item>
             </NavDropdown>
+            <NavDropdown title="Hobbies" menuVariant="dark">
+              <NavDropdown.Item href="./#/CoffeeMods">Espresso Mods</NavDropdown.Item>
+            </NavDropdown>
           </Nav>
         </Navbar.Collapse>
       </Container>
