@@ -24,7 +24,7 @@ const TeaProcess = () =>
             <p>
                 The Spring season is the first flush. Summer is the second flush. 
                 Autumn Flush is collected in the Autumn season. 
-                Winter typically only done in Taiwan but is collected in October/Novemeber.
+                Winter typically only done in Taiwan but is collected in October/November.
             </p>
             <p>Each leaf is hand picked.</p>
             <h3>
@@ -81,7 +81,7 @@ const TeaProcess = () =>
                         <td>Black</td>
                         <td>Newly Sprouted Leaves</td>
                         <td>None</td>
-                        <td>Brusing For Oxidation</td>
+                        <td>Bruising For Oxidation</td>
                         <td>Baked To Seal</td>
                         <td>Typically not</td>
                     </tr>
@@ -111,6 +111,20 @@ const TeaProcess = () =>
             <p>Holy ginger does many things (Holy Basil and Ginger). There's a sheet of health benefits near the herbal sections since herbals have a wide variety.</p>
             <h3>Storage</h3>
             <p>Cool, Dry place, airtight, outside of sunlight. </p>
+            <h3>Recommendations</h3>
+            <p>
+                Working at <a href="https://happyearthtea.com">Happy Earth Tea</a> there are certain way to address tea recommendations.
+                <br/>
+                A good first question to ask is caffeinated or non caffeinated. Since many people are coming for non-caffeine options.
+                <br/>
+                Specials are good for people starting. They're the mixed cocktails of the tea bar. 
+                <br/>
+                Flights are also really good. Typically Black teas are not recommend for starters because they have uniqueness that is harder to pick up. Oolongs have the widest variety of flavors and is a good place to figure out what kind of tea is a good direction.
+                <br/>
+                Flavored teas and Black teas are typically bought by customers or gifts that are older.
+                <br/>
+                Make sure each of the customers get 3 recommendations with out overloading them with options.
+            </p>
         </Container>
     )
 };
