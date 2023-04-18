@@ -6,6 +6,7 @@ import Projects from "./routes/Projects";
 import Navbar from './Navbar/Navbar';
 import Coffee from "./routes/Coffee"
 import CoffeeMods from "./routes/CoffeeMods"
+import TeaProcess from "./routes/TeaNotes/TeaProcess"
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/Projects" element={<Projects />} />
         <Route path="/Coffee" element={<Coffee/>}/>
         <Route path="/CoffeeMods" element={<CoffeeMods/>}/>
+        <Route path="/TeaProcess" element={<TeaProcess/>}/>
       </Routes>
     </>
   );

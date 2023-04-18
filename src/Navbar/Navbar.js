@@ -20,6 +20,7 @@ function siteNavBar() {
             </NavDropdown>
             <NavDropdown title="Hobbies" menuVariant="dark">
               <NavDropdown.Item href="./#/CoffeeMods">Espresso Mods</NavDropdown.Item>
+              <NavDropdown.Item href="./#/TeaProcess">Tea Processing Notes</NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
