@@ -14,13 +14,14 @@ const Home = ()=>
             </Row>
             <Row className="justify-content-center">
                 <Col md={8} sm={8} xs={10} className="text-center">
-                    Hi, I'm Peter Kang. A software engineer that enjoys working with interesting people on interesting projects.
+                    Hi, I'm Peter Kang. A software engineer that enjoys working with interesting people on interesting projects. 
+                    I have alot of fun exploring and sharing my experiences.
                 </Col>
             </Row>
             <br/>
             <Row className="justify-content-center">
                 <Col md={8} sm={8} xs={10} className="text-center"> 
-                    I enjoy listening to podcasts, exercising, reading, and learning about new things.
+                    I enjoy listening to stories, exercising, reading, and learning about new things. 
                 </Col>
             </Row>
             <br/>
