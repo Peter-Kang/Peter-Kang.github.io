@@ -14,22 +14,23 @@ const TeaProcess = () => {
                         Tea can grow in many locations but the combination of soil, water, humidity, altitude, and growing environment
                         contributes to the taste and results.
                     </p>
-                    <br />
+                    <br/>
                     <h3>Tea Picking</h3>
                     <p>
                         The first spring is typically the most valuable and important tea season.
                         Since it is the time new leaves sprout. Each country have different start of spring seasons.
                         In India it starts in end of February, China Mid March, Taiwan April, and Japan May.
                         Some tea makers have started growing tea outside of typically grown areas such as Scotland (weetea).
-                        <br />
-                        <br />
+                        <br/>
+                        <br/>
                         The Spring season is the first flush. Summer is the second flush.
                         Autumn Flush is collected in the Autumn season.
                         Winter typically only done in Taiwan but is collected in October/November.
-                        <br />
-                        <br />
+                        <br/>
+                        <br/>
                         Each leaf is hand picked.
                     </p>
+                    <br/>
                 </Col>
                 <Col className="col-md-6 col-12">
                 </Col>
