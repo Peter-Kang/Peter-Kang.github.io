@@ -21,7 +21,7 @@ const TeaProcess = () => {
                         The first spring is typically the most valuable and important tea season.
                         Since spring is the time new leaves sprout. Countries have different start of spring seasons.
                         In India it starts in end of February, China Mid March, Taiwan April, and Japan May.
-                        Some tea makers have started growing tea outside of typically grown areas such as Scotland (weetea).
+                        Some tea makers have started growing tea outside of typically grown areas such as Scotland (Weetea).
                         <br/>
                         <br/>
                         The Spring season is the first flush. Summer is the second flush.
