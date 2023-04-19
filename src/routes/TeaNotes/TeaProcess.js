@@ -98,6 +98,7 @@ const TeaProcess = () => {
             </Table>
             <Row>
                 <Col className="col-md-1 col-12">
+                    <Image src="./TeaPhotos/IMG_3041.png" width="100%" height="100%"></Image>
                 </Col>
                 <Col className="col-md-11 col-12">
                     <h4>Matcha</h4>
