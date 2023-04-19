@@ -22,9 +22,11 @@ const TeaProcess = () => {
                         In India it starts in end of February, China Mid March, Taiwan April, and Japan May.
                         Some tea makers have started growing tea outside of typically grown areas such as Scotland (weetea).
                         <br />
+                        <br />
                         The Spring season is the first flush. Summer is the second flush.
                         Autumn Flush is collected in the Autumn season.
                         Winter typically only done in Taiwan but is collected in October/November.
+                        <br />
                         <br />
                         Each leaf is hand picked.
                     </p>
