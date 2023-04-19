@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Table from 'react-bootstrap/Table';
+import Image from "react-bootstrap/Image"
 
 const TeaProcess = () => {
     return (
@@ -113,15 +114,17 @@ const TeaProcess = () => {
 
             <h3>Health Effects</h3>
             <Row>
+                <Col className="col-md-1 col-12">
+                    <Image src="./TeaPhotos/IMG_3036.png" width="100%" height="100%"></Image>
+                </Col>
                 <Col className="col-md-11 col-12">
                     <h4>White Tea</h4>
                     <p>Lots of Caffeine (exception of Nan Mei White), rich with antioxidants, and least process of the tea.</p>
                 </Col>
-                <Col className="col-md-1 col-12">
-                </Col>
             </Row>
             <Row>
                 <Col className="col-md-1 col-12">
+                    <Image src="./TeaPhotos/IMG_3037.png" width="100%" height="100%"></Image>
                 </Col>
                 <Col className="col-md-11 col-12">
                     <h4>Green Tea</h4>
@@ -129,15 +132,17 @@ const TeaProcess = () => {
                 </Col>
             </Row>
             <Row>
+                <Col className="col-md-1 col-12">
+                    <Image src="./TeaPhotos/IMG_3037.png" width="100%" height="100%"></Image>
+                </Col>
                 <Col className="col-md-11 col-12">
                     <h4>Yellow Tea</h4>
                     <p>Less caffeine than white tea, and rich in antioxidants (EGCG). Since it is baked so many times it is less acidic then green tea.</p>
                 </Col>
-                <Col className="col-md-1 col-12">
-                </Col>
             </Row>
             <Row>
                 <Col className="col-md-1 col-12">
+                    <Image src="./TeaPhotos/IMG_3038.png" width="100%" height="100%"></Image>
                 </Col>
                 <Col className="col-md-11 col-12">
                     <h4>Black Tea</h4>
@@ -145,15 +150,17 @@ const TeaProcess = () => {
                 </Col>
             </Row>
             <Row>
+                <Col className="col-md-1 col-12">
+                    <Image src="./TeaPhotos/IMG_3040.png" width="100%" height="100%"></Image>
+                </Col>
                 <Col className="col-md-11 col-12">
                     <h4>Oolong Tea</h4>
                     <p>Combinations of Green and Black teas</p>
                 </Col>
-                <Col className="col-md-1 col-12">
-                </Col>
             </Row>
             <Row>
                 <Col className="col-md-1 col-12">
+                    <Image src="./TeaPhotos/IMG_3039.png" width="100%" height="100%"></Image>
                 </Col>
                 <Col className="col-md-11 col-12">
                     <h4>Herbals</h4>
