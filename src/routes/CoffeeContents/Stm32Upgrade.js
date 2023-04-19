@@ -18,7 +18,7 @@ const Stm32Upgrade = () => {
             </figure>
             <h2><a id="PostMortem2"><u>Post Mortem STM32 Micro Controller</u></a></h2>
             <p>
-                This upgrade was alot more difficult then expected because I also wanted to redo some of the wiring.
+                This upgrade was more difficult then expected because I also wanted to redo some of the wiring.
                 Since It was previously all in the machine and having the parts outside lets me visually see what parts turn on at different points better.
             </p>
             <br />

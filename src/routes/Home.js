@@ -15,7 +15,7 @@ const Home = ()=>
             <Row className="justify-content-center">
                 <Col md={8} sm={8} xs={10} className="text-center">
                     Hi, I'm Peter Kang. A software engineer that enjoys working with interesting people on interesting projects. 
-                    I have alot of fun exploring and sharing my experiences.
+                    I have fun exploring and sharing my experiences.
                 </Col>
             </Row>
             <br/>
