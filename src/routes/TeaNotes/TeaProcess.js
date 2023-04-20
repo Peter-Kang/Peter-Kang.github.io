@@ -18,8 +18,9 @@ const TeaProcess = () => {
                     <br/>
                     <h3>Tea Picking</h3>
                     <p>
-                        The first spring is typically the most valuable and important tea season.
-                        Since spring is the time new leaves sprout. Countries have different start of spring seasons.
+                        New leaves sprout during spring. 
+                        This leads to spring being the most valuable and important tea season.
+                        Each country will have different tea harvesting start times.
                         In India it starts in end of February, China Mid March, Taiwan April, and Japan May.
                         Some tea makers have started growing tea outside of typically grown areas such as Scotland (Weetea).
                         <br/>
