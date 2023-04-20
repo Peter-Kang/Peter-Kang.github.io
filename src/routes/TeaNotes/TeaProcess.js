@@ -12,7 +12,7 @@ const TeaProcess = () => {
                 <Col className="col-md-8 col-12">
                     <h3>Tea Growing</h3>
                     <p>
-                        Tea can grow in many locations but the combination of soil, water, humidity, altitude, and growing environment
+                        Tea can grow in many locations. The combination of soil, water, humidity, altitude, and growing environment
                         contributes to the taste and results.
                     </p>
                     <br/>
