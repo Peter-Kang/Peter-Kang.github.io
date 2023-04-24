@@ -315,7 +315,21 @@ const CoffeeMods = () => {
                         <td align="center">19</td>
                         <td><a href="https://www.aliexpress.us/item/3256803154822955.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US">Link</a></td>
                     </tr>
+                    <tr>
+                        <td>Power Supply (12V 1000mA) and 5 Volt Stepdown* </td>
+                        <td>Gagguino</td>
+                        <td align="center">4*</td>
+                        <td>
+                            <a href="https://www.aliexpress.us/item/2251832826435151.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US">Link PS</a>
+                            <br/>
+                            <a href="https://www.aliexpress.us/item/3256801635468667.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=60162592030&aff_fcid=0c732e846ff545abbc933a4161a34ceb-1682359892590-08034-_uAvaIl&tt=MG&aff_fsk=_uAvaIl&aff_platform=default&sk=_uAvaIl&aff_trace_key=0c732e846ff545abbc933a4161a34ceb-1682359892590-08034-_uAvaIl&shareId=60162592030&businessType=ProductDetail&platform=AE&terminal_id=8a5423ef4d3644b3b6ed5067a151401d&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US">Link</a>
+                        </td>
+                    </tr>
                 </tbody>
+                <p>
+                    *Note: I used a neutral/ground to 5V power supply that I had on hand instead. 
+                    <br/>Not include this in the totals
+                </p>
             </Table>
 
 
