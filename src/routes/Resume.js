@@ -23,7 +23,7 @@ const Resume = ()=>
                 <Row><Col className="text-decoration-underline">Software Engineer</Col></Row>
                 <Row><Col>Scrum/Agile setting. Connected Microservices and platforms with Kafka consumers and REST api calls. Focused on documentation, code reviews, and resolving software performance bottlenecks. Large .Net Codebase with several teams and departments.</Col></Row>
                 <Row><Col>Microservices architecture. AngularJS frontend hosted in Weblogic. Interfaces with .Net services hosted in IIS. These applications were deployed in a mix environment between private datacenters and Azure.</Col></Row>
-                <Row><Col>CI/CD was done via Jenkins. the code repository is stored in bitbucket and Azure Development Portal. Stories were tracked via Jira. </Col></Row>
+                <Row><Col>CI/CD was done via Jenkins. The code repository is stored in bitbucket (JS) and Azure Development Portal (.Net). Stories were tracked via Jira. </Col></Row>
                 <Row><Col>Shared organized information in the form of diagrams, meetings, and confluence pages. Provided feedback and input on design decisions.</Col></Row>
             </Col>
         </Row>
