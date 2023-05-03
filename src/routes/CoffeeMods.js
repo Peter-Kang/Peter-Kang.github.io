@@ -159,7 +159,7 @@ const CoffeeMods = () => {
             <Row>
                 <Col className ="text-center">
                     <figure className="figure text-center">
-                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103106269801357342/IMG_3016.png?width=174&height=232" height="100%" width="100%" alt="Modded Grinder" />
+                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103106269801357342/IMG_3016.png?width=174&height=232" height="75%" width="75%" alt="Modded Grinder" />
                         <figcaption className="figure-caption">Sette 30 with a Sette 270 micro adjustment assembly</figcaption>
                     </figure>
                 </Col>
