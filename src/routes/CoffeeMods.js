@@ -175,9 +175,9 @@ const CoffeeMods = () => {
                 <Col>
                     The listed cost are rounded to the nearest half dollar and were the price I paid at the time.
                     <br/>
-                    The total cost of everything ended up being about $1225.
+                    The total cost of everything ended up being about $1230.
                     <br />
-                    The total cost of modding the espresso machine is $375.
+                    The total cost of modding the espresso machine is $380.
                 </Col>
             </Row>
             <Row>
@@ -215,6 +215,12 @@ const CoffeeMods = () => {
                             <td>Grinder</td>
                             <td align="center">90</td>
                             <td><a href="https://shop.baratza.com/sette-270-270w-adjustment-assembly">Link</a></td>
+                        </tr>
+                        <tr>
+                            <td>Sette Shim & Allen Wrench Kit</td>
+                            <td>Grinder</td>
+                            <td align="center">5</td>
+                            <td><a href="https://shop.baratza.com/sette-shim-allen-wrench-kit">Link</a></td>
                         </tr>
                         <tr>
                             <td>VST 20g basket</td>
