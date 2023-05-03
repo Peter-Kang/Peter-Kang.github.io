@@ -98,21 +98,21 @@ const GaggiuinoComponents = () => {
                         This creates automated pressure control via the micro controller.
                     </p>
                 </Col>
-                <Col className="col-md-4 col-12 text-center">
-                    <figure className="figure text-center">
-                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105895388434482/IMG_2867.png?width=394&height=525" height="80%" width="80%" alt="T Fitting" />
+                <Col className="col-sm-4 col-12 text-center">
+                    <figure className="figure text-center" width="312" height="416">
+                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105895388434482/IMG_2867.png?width=312&height=416" height="75%" width="75%" alt="T Fitting" />
                         <figcaption className="figure-caption">T Fitting, joining 3 orange-red tubes</figcaption>
                     </figure>
                 </Col>
-                <Col className="col-md-4 col-12 text-center">
-                    <figure className="figure text-center">
-                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105896730603561/IMG_2868.png?width=394&height=525" height="80%" width="80%" alt="Pressure Sensor" />
+                <Col className="col-sm-4 col-12 text-center">
+                    <figure className="figure text-center" width="312" height="416">
+                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105896730603561/IMG_2868.png?width=312&height=416" height="75%" width="75%" alt="Pressure Sensor" />
                         <figcaption className="figure-caption">Pressure Sensor, <br/>the hex shaped fitting attached to the orange-red tube</figcaption>
                     </figure>
                 </Col>
-                <Col className="col-md-4 col-12 text-center">
-                    <figure className="figure  text-center">
-                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105899465297930/dimmer.jpg?width=394&height=525" height="80%" width="80%" alt="dimmer" />
+                <Col className="col-sm-4 col-12 text-center">
+                    <figure className="figure  text-center" width="312" height="416">
+                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105899465297930/dimmer.jpg?width=312&height=416" height="75%" width="75%" alt="dimmer" />
                         <figcaption className="figure-caption">Dimmer</figcaption>
                     </figure>
                 </Col>
