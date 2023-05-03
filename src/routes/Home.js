@@ -9,7 +9,7 @@ const Home = ()=>
             <br/>
             <Row className="justify-content-center">
                 <Col md={2} sm={4} xs={4} className="text-center">
-                    <Image display-flex roundedCircle class="" src='./profilePhoto.png'/>
+                    <Image roundedCircle src='./profilePhoto.png'/>
                 </Col>
             </Row>
             <Row className="justify-content-center">

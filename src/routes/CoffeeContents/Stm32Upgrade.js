@@ -1,5 +1,5 @@
 import React from "react";
-import { Container } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import Image from "react-bootstrap/Image"
 
 const Stm32Upgrade = () => {
@@ -10,12 +10,14 @@ const Stm32Upgrade = () => {
                 The STM32 Upgrade adds an additional dimmer to the machine and an analog to digital converter.
                 The dimmer is to control the pump better and the converter is for the pressure sensor.
             </p>
-            <figure className="figure text-center">
-                <Image src="./CoffeeMachineImages/IMG_2943.png" width="35%" height="35%"></Image>
-                <figcaption className="figure-caption">
-                    On the left red circle we have the new dimmer added and on the right red circle we have the analog to digital converter added.
-                </figcaption>
-            </figure>
+            <div className="text-center">
+                <figure className="figure text-center">
+                    <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106229166932088/IMG_2943.png?width=235&height=202" width="235" height="202"></Image>
+                    <figcaption className="figure-caption">
+                        On the left red circle we have the new dimmer added and on the right red circle we have the analog to digital converter added.
+                    </figcaption>
+                </figure>
+            </div>
             <h2><a id="PostMortem2"><u>Post Mortem STM32 Micro Controller</u></a></h2>
             <p>
                 This upgrade was more difficult then expected because I also wanted to redo some of the wiring.
@@ -32,22 +34,28 @@ const Stm32Upgrade = () => {
                 I checked with the community and saw that sometimes this happens if there was a bridge on the board for ground since on the arduino nano those pins are both ground.
                 It turns out that they were connected but it was the entire plate.
             </p>
-            <figure className="figure text-center">
-                <Image src="./CoffeeMachineImages/IMG_2937.png" width="25%" height="25%"></Image>
-                <figcaption className="figure-caption">
-                    The circles show how the two ports connect to the plate.
-                </figcaption>
-            </figure>
             <p>
                 To separate them I used a knife to chisel out and separate each side.
                 I made sure to avoid going over the screw holes, since the screws could link the two sides again.
             </p>
-            <figure className="figure text-center">
-                <Image src="./CoffeeMachineImages/IMG_2944.png" width="25%" height="25%"></Image>
-                <figcaption className="figure-caption">
-                    Separated both sides
-                </figcaption>
-            </figure>
+            <Row className="text-center">
+                <Col className="col-md-6 col-12 text-center">
+                    <figure className="figure text-center" >
+                        <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106228063834212/IMG_2937.png?width=246&height=328" width="246" height="328"></Image>
+                        <figcaption className="figure-caption">
+                            Red circles show where the two ports connect to the plate
+                        </figcaption>
+                    </figure>
+                </Col>
+                <Col className="col-md-6 col-12 text-center">
+                    <figure className="figure text-center">
+                        <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106230177771531/IMG_2944.png?width=246&height=328" width="246" height="328"></Image>
+                        <figcaption className="figure-caption">
+                            Separating both those sides of the plate
+                        </figcaption>
+                    </figure>
+                </Col>
+            </Row>
         </Container>
     )
 };
