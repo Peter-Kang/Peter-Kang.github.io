@@ -6,7 +6,7 @@ const Projects = ()=>
     return(
     <Container>
         <Row><Col className="fw-bold"><h3><u>Free Lancing</u></h3></Col></Row>
-        <Row><Col><h5> Convergence Art </h5></Col></Row>
+        <Row><Col> <h5> Convergence Art </h5></Col></Row>
         <Row><Col>Arduino Bluetooth Light controlling art project.</Col></Row>
         <Row><Col>This art project was done to help a glass making grad student.</Col></Row>
         <br/>
