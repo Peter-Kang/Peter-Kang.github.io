@@ -8,7 +8,7 @@ const Projects = ()=>
         <Row><Col className="fw-bold"><h3><u>Free Lancing</u></h3></Col></Row>
         <Row><Col> <h5> Convergence Art </h5></Col></Row>
         <Row><Col>Arduino Bluetooth Light controlling art project.</Col></Row>
-        <Row><Col>This art project was done to help a Glass grad student.</Col></Row>
+        <Row><Col>This project was done to help a Glass grad student with switching light sources for an art project.</Col></Row>
         <Row><Col><a ref="https://github.com/Peter-Kang/FadingLightArudinoProject">https://github.com/Peter-Kang/FadingLightArudinoProject</a></Col></Row>
         <br/>
         <Row><Col><h5> Evenline.co </h5></Col></Row>
