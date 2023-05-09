@@ -9,7 +9,7 @@ const Resume = ()=>
         <br/>
         <Row>
             <Col>
-                <h2><b>Experience</b></h2>
+                <h3><b>Experience</b></h3>
                 <hr/>
                 <br/>
             </Col>
@@ -66,7 +66,7 @@ const Resume = ()=>
         <br/>
         <Row>
             <Col>
-                <h2><b>Alumni</b></h2>
+                <h3><b>Alumni</b></h3>
                 <hr/>
             </Col>
         </Row>
@@ -83,7 +83,7 @@ const Resume = ()=>
         <br/>
         <Row>
             <Col>
-                <h2><b>Projects</b></h2>
+                <h3><b>Projects</b></h3>
                 <hr/>
             </Col>
         </Row>
@@ -97,7 +97,7 @@ const Resume = ()=>
         <br/>
         <Row>
             <Col>
-                <h2><b>Hobbies</b></h2>
+                <h3><b>Hobbies</b></h3>
                 <hr/>
             </Col>
         </Row>
