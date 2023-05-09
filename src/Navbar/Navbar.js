@@ -8,7 +8,7 @@ function siteNavBar() {
   return (
     <Navbar bg="dark" variant="dark" expand="sm" collapseOnSelect={true}>
       <Container>
-        <Navbar.Brand href="./" >Peter Kang</Navbar.Brand>
+        <Navbar.Brand href="./" ><b>Peter Kang</b></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
