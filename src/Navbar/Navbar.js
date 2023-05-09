@@ -8,7 +8,7 @@ function siteNavBar() {
   return (
     <Navbar bg="dark" variant="dark" expand="sm" collapseOnSelect={true}>
       <Container>
-        <Navbar.Brand href="./" >Peter Kang</Navbar.Brand>
+        <Navbar.Brand href="./" ><b><u>Peter Kang</u></b></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
@@ -16,7 +16,7 @@ function siteNavBar() {
             <Nav.Link href="./#/Resume">Resume</Nav.Link>
             <NavDropdown title="Projects" menuVariant="dark">
               <NavDropdown.Item href="./#/Projects">Collaborations</NavDropdown.Item>
-              <NavDropdown.Item href="./#/Coffee">Gaggiuino</NavDropdown.Item>
+              <NavDropdown.Item href="./#/Gaggiuino">Gaggiuino</NavDropdown.Item>
             </NavDropdown>
             <NavDropdown title="Hobbies" menuVariant="dark">
               <NavDropdown.Item href="./#/CoffeeMods">Espresso Mods</NavDropdown.Item>

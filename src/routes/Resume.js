@@ -8,16 +8,23 @@ const Resume = ()=>
     <Container>
         <br/>
         <Row>
-            <Col md={1} sm={2} xs={2} className="m-auto"><Image src='./profilePhoto.png' width="50" height="50"></Image></Col>
             <Col>
-            <Row><Col className="fw-bold">Freelancing</Col></Row>
-            <Row><Col>Evenline</Col></Row>
-            <Row><Col>Convergence Art</Col></Row>
+                <h2><b>Experience</b></h2>
+                <hr/>
+                <br/>
+            </Col>
+        </Row>
+        <Row>
+            <Col md={1} sm={2} xs={2} className="m-auto" align="center"><Image src='./profilePhoto.png'  width="50" height="50"></Image></Col>
+            <Col>
+                <Row><Col className="fw-bold">Freelancing</Col></Row>
+                <Row><Col>Evenline</Col></Row>
+                <Row><Col>Convergence Art</Col></Row>
             </Col>
         </Row>
         <br/>
         <Row>
-            <Col md={1} sm={2} xs={2} className="m-auto"><Image src='./mindex.png' width="50" height="50"></Image></Col>
+            <Col md={1} sm={2} xs={2} className="m-auto" align="center"><Image src='./mindex.png'  width="50" height="50"></Image></Col>
             <Col>
                 <Row><Col className="fw-bold">Mindex</Col></Row>
                 <Row><Col className="text-decoration-underline">Software Engineer</Col></Row>
@@ -29,7 +36,7 @@ const Resume = ()=>
         </Row>
         <br/>
         <Row>
-            <Col md={1} sm={2} xs={2} className="m-auto"><Image src='./QVI.png' width="50" height="50"></Image></Col>
+            <Col md={1} sm={2} xs={2} className="m-auto" align="center"><Image src='./QVI.png'  width="50" height="50"></Image></Col>
             <Col>
                 <Row><Col className="fw-bold">QVI</Col></Row>
                 <Row><Col className="text-decoration-underline">Senior Software Engineer</Col></Row>
@@ -48,7 +55,7 @@ const Resume = ()=>
         
         <br/>
         <Row>
-            <Col md={1} sm={2} xs={2} className="m-auto"><Image src='./syncsum.png' width="50" height="50"></Image></Col>
+            <Col md={1} sm={2} xs={2} className="m-auto" align="center"><Image src='./syncsum.png' width="50" height="50"></Image></Col>
             <Col>
                 <Row><Col className="fw-bold">SyncSum</Col></Row>
                 <Row><Col className="text-decoration-underline">Software Engineer</Col></Row>
@@ -57,11 +64,53 @@ const Resume = ()=>
             </Col>
         </Row>
         <br/>
+        <Row>
+            <Col>
+                <h2><b>Alumni</b></h2>
+                <hr/>
+            </Col>
+        </Row>
+        <Row >
+            <Col md={1} sm={2} xs={2} className="m-auto" align="center">
+                <Image align="center" src='./rit.svg.png' width="50" height="50"></Image>
+            </Col>
+            <Col>
+                <Row><Col><b>Rochester Institute of Technology</b>&nbsp; 2016</Col></Row>
+                <Row><Col>B.S Computer Science</Col></Row>
+                <Row><Col>B.S Economics</Col></Row>
+            </Col>
+        </Row>
+        <br/>
+        <Row>
+            <Col>
+                <h2><b>Projects</b></h2>
+                <hr/>
+            </Col>
+        </Row>
+        <Row>
+            <Col>
+                <lu>
+                    <li> <a href="./#/Collaborations">Collaborations</a> </li>
+                </lu> 
+            </Col>
+        </Row>
+        <br/>
+        <Row>
+            <Col>
+                <h2><b>Hobbies</b></h2>
+                <hr/>
+            </Col>
+        </Row>
+        <Row>
+           
+        </Row>
+        <br/>
         <Row className="justify-content-center">
             <Col md={8} sm={8} xs={10} className="fw-bold text-center">
                 References Given Upon Request
             </Col>
         </Row>
+        <br/>
     </Container>
     );
 } 

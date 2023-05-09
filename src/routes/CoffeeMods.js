@@ -8,7 +8,7 @@ const CoffeeMods = () => {
         <Container>
             <Row>
                 <Col>
-                    <h1>Coffee Machine Mods </h1>
+                    <h1>Coffee Machine Mods</h1>
                 </Col>
             </Row>
             <Row>
@@ -50,7 +50,7 @@ const CoffeeMods = () => {
             </Row>
             <Row>
                 <Col>
-                    <h4><a id="MachineBodyMods"><u>Machine Body Mods </u></a></h4>
+                    <h4><a id="MachineBodyMods"><u>Machine Body Mods</u></a></h4>
                 </Col>
             </Row>
             <Row>
@@ -120,7 +120,7 @@ const CoffeeMods = () => {
             </Row>
             <Row>
                 <Col>
-                    <h2><a id="Portafilter"><u>Portafilter Mods </u></a></h2>
+                    <h2><a id="Portafilter"><u>Portafilter Mods</u></a></h2>
                 </Col>
             </Row>
             <Row>
@@ -168,7 +168,7 @@ const CoffeeMods = () => {
             
             <Row>
                 <Col>
-                    <h2> <a id="Excel"> <u> Table of Everything and Costs</u> </a> </h2>
+                    <h2> <a id="Excel"> <u>Table of Everything and Costs</u> </a> </h2>
                 </Col>
             </Row>
             <Row>
@@ -397,13 +397,21 @@ const CoffeeMods = () => {
                             </td>
                         </tr>
                     </tbody>
+                    <tfoot>
+                            <tr>
+                                <td></td>
+                                <td align="right">Total:</td>
+                                <td align="center">$1230</td>
+                                <td></td>
+                            </tr>
+                        </tfoot>
                 </Table>
                 </Col>
             </Row>
             <Row>
                 <Col>
                     <p>
-                        *Note: I used a neutral/ground to 5V power supply instead. Not include this in the totals
+                        * Note: I used a neutral/ground to 5V power supply instead. Not include this in the totals
                     </p>
                 </Col>
             </Row>

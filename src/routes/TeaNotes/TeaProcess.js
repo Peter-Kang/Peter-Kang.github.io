@@ -98,10 +98,10 @@ const TeaProcess = () => {
                 </tbody>
             </Table>
             <Row>
-                <Col className="col-md-1 col-12">
+                <Col className="col-md-1 col-12 m-auto">
                     <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106381764108298/IMG_3041.png?width=516&height=688" width="100%" height="100%"></Image>
                 </Col>
-                <Col className="col-md-11 col-12">
+                <Col className="col-md-11 col-12 m-auto">
                     <h4>Matcha</h4>
                     <p>
                         Matcha is Tencha but milled.
@@ -116,7 +116,7 @@ const TeaProcess = () => {
 
             <h3>Health Effects</h3>
             <Row>
-                <Col className="col-md-1 col-12">
+                <Col className="col-md-1 col-12 m-auto">
                     <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106376001134734/IMG_3036.png?width=516&height=688" width="100%" height="100%"></Image>
                 </Col>
                 <Col className="col-md-11 col-12">
@@ -125,7 +125,7 @@ const TeaProcess = () => {
                 </Col>
             </Row>
             <Row>
-                <Col className="col-md-1 col-12">
+                <Col className="col-md-1 col-12 m-auto">
                     <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106377792114698/IMG_3037.png?width=516&height=688" width="100%" height="100%"></Image>
                 </Col>
                 <Col className="col-md-11 col-12">
@@ -134,7 +134,7 @@ const TeaProcess = () => {
                 </Col>
             </Row>
             <Row>
-                <Col className="col-md-1 col-12">
+                <Col className="col-md-1 col-12 m-auto">
                     <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106377792114698/IMG_3037.png?width=516&height=688" width="100%" height="100%"></Image>
                 </Col>
                 <Col className="col-md-11 col-12">
@@ -143,7 +143,7 @@ const TeaProcess = () => {
                 </Col>
             </Row>
             <Row>
-                <Col className="col-md-1 col-12">
+                <Col className="col-md-1 col-12 m-auto">
                     <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106378693877770/IMG_3038.png?width=516&height=688" width="100%" height="100%"></Image>
                 </Col>
                 <Col className="col-md-11 col-12">
@@ -152,7 +152,7 @@ const TeaProcess = () => {
                 </Col>
             </Row>
             <Row>
-                <Col className="col-md-1 col-12">
+                <Col className="col-md-1 col-12 m-auto">
                     <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106380564549632/IMG_3040.png?width=516&height=688" width="100%" height="100%"></Image>
                 </Col>
                 <Col className="col-md-11 col-12">
@@ -161,10 +161,10 @@ const TeaProcess = () => {
                 </Col>
             </Row>
             <Row>
-                <Col className="col-md-1 col-12">
+                <Col className="col-md-1 col-12 m-auto">
                     <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106379658563584/IMG_3039.png?width=516&height=688" width="100%" height="100%"></Image>
                 </Col>
-                <Col className="col-md-11 col-12">
+                <Col className="col-md-11 col-12 m-auto">
                     <h4>Herbals</h4>
                     <p>Holy ginger does many things (Holy Basil and Ginger). There's a sheet of health benefits near the herbal sections since herbals have a wide variety.</p>
                 </Col>

@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
-const Projects = ()=>
+const Collaborations = ()=>
 {
     return(
     <Container>
@@ -34,4 +34,4 @@ const Projects = ()=>
     );
 } 
 
-export default Projects;
+export default Collaborations;
