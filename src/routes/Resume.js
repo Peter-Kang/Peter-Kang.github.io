@@ -90,7 +90,7 @@ const Resume = ()=>
         <Row>
             <Col>
                 <lu>
-                    <li> <a href="./#/Projects">Collaborations</a> </li>
+                    <li> <a href="./#/Collaborations">Collaborations</a> </li>
                 </lu> 
             </Col>
         </Row>
