@@ -6,7 +6,7 @@ import GaggiuinoComponents from "./CoffeeContents/Components"
 import CoffeeAssembly from "./CoffeeContents/Assembly"
 import Stm32Upgrade from "./CoffeeContents/Stm32Upgrade"
 
-const Coffee = ()=>
+const Gaggiuino = ()=>
 {
     return (    
     <Container>
@@ -24,4 +24,4 @@ const Coffee = ()=>
     )
 }
 
-export default Coffee;
+export default Gaggiuino;
