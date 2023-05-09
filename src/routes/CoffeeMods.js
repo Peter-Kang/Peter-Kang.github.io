@@ -8,7 +8,7 @@ const CoffeeMods = () => {
         <Container>
             <Row>
                 <Col>
-                    <h1><b>Coffee Machine Mods</b></h1>
+                    <h1>Coffee Machine Mods</h1>
                 </Col>
             </Row>
             <Row>
@@ -26,7 +26,7 @@ const CoffeeMods = () => {
             </Row>
             <Row>
                 <Col>
-                    <h2><a id="Machine"><b><u>Machine Gaggia Classic Pro</u></b></a></h2>
+                    <h2><a id="Machine"><u>Machine Gaggia Classic Pro</u></a></h2>
                 </Col>
             </Row>
             
@@ -50,7 +50,7 @@ const CoffeeMods = () => {
             </Row>
             <Row>
                 <Col>
-                    <h4><a id="MachineBodyMods"><u><b>Machine Body Mods</b></u></a></h4>
+                    <h4><a id="MachineBodyMods"><u>Machine Body Mods</u></a></h4>
                 </Col>
             </Row>
             <Row>
@@ -101,7 +101,7 @@ const CoffeeMods = () => {
             </Row>
             <Row>
                 <Col>
-                    <h4><a id="Gagguino"><u><b>Gagguino</b></u></a></h4>
+                    <h4><a id="Gagguino"><u>Gagguino</u></a></h4>
                 </Col>
             </Row>
 
@@ -120,7 +120,7 @@ const CoffeeMods = () => {
             </Row>
             <Row>
                 <Col>
-                    <h2><a id="Portafilter"><u><b>Portafilter Mods</b></u></a></h2>
+                    <h2><a id="Portafilter"><u>Portafilter Mods</u></a></h2>
                 </Col>
             </Row>
             <Row>
@@ -146,7 +146,7 @@ const CoffeeMods = () => {
             </Row>
             <Row>
                 <Col>
-                    <h2><a id="Grinder"><u><b>Grinder Sette 30/270</b></u></a></h2>
+                    <h2><a id="Grinder"><u>Grinder Sette 30/270</u></a></h2>
                 </Col>
             </Row>
             <Row>
@@ -168,7 +168,7 @@ const CoffeeMods = () => {
             
             <Row>
                 <Col>
-                    <h2> <a id="Excel"> <u> <b>Table of Everything and Costs</b></u> </a> </h2>
+                    <h2> <a id="Excel"> <u>Table of Everything and Costs</u> </a> </h2>
                 </Col>
             </Row>
             <Row>
@@ -400,8 +400,8 @@ const CoffeeMods = () => {
                     <tfoot>
                             <tr>
                                 <td></td>
-                                <td>Total:</td>
-                                <td>$1230</td>
+                                <td align="right">Total:</td>
+                                <td align="center">$1230</td>
                                 <td></td>
                             </tr>
                         </tfoot>
@@ -411,7 +411,7 @@ const CoffeeMods = () => {
             <Row>
                 <Col>
                     <p>
-                        *Note: I used a neutral/ground to 5V power supply instead. Not include this in the totals
+                        * Note: I used a neutral/ground to 5V power supply instead. Not include this in the totals
                     </p>
                 </Col>
             </Row>
