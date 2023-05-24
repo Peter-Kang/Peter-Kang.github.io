@@ -18,6 +18,23 @@ const Stm32Upgrade = () => {
                     </figcaption>
                 </figure>
             </div>
+            <Row>
+                <Col>
+                    <h2><a id="Done"><u>Done Done</u></a></h2>
+                    <p>
+                        STM32 upgrade
+                    </p>
+                    <br />
+                    <div className="d-flex align-items-center justify-content-center">
+                        <figure className="figure text-center">
+                            <video width="400" controls>
+                                <source src="https://cdn.discordapp.com/attachments/1103103292030058526/1107459284574404748/IMG_3096.mov" type="video/mp4" allowFullScreen />
+                            </video>
+                            <figcaption className="figure-caption">STM32 Gaggiuino in full use</figcaption>
+                        </figure>
+                    </div>
+                </Col>
+            </Row>
             <h2><a id="PostMortem2"><u>Post Mortem STM32 Micro Controller</u></a></h2>
             <p>
                 This upgrade was more difficult then expected because I also wanted to redo some of the wiring.
@@ -54,23 +71,6 @@ const Stm32Upgrade = () => {
                             Separating both those sides of the plate
                         </figcaption>
                     </figure>
-                </Col>
-            </Row>
-            <Row>
-                <Col>
-                    <h2><a id="Done"><u>Done Done</u></a></h2>
-                    <p>
-                        Here is the machine with a stm32 upgrade
-                    </p>
-                    <br />
-                    <div className="d-flex align-items-center justify-content-center">
-                        <figure className="figure text-center">
-                            <video width="400" controls>
-                                <source src="https://cdn.discordapp.com/attachments/1103103292030058526/1107459284574404748/IMG_3096.mov" type="video/mp4" allowFullScreen />
-                            </video>
-                            <figcaption className="figure-caption">STM32 Gaggiuino in full use</figcaption>
-                        </figure>
-                    </div>
                 </Col>
             </Row>
         </Container>
