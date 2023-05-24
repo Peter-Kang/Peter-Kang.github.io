@@ -113,7 +113,7 @@ const Resume = ()=>
                     <li> <a href="./#/CoffeeMods">Coffee</a> </li>
                 </lu> 
                 <lu>
-                    <li> <a href="./#/TeaNotes">Tea</a> </li>
+                    <li> <a href="./#/TeaProcess">Tea</a> </li>
                 </lu>
                 <lu>
                     <li> Reading List (TBD) </li>
