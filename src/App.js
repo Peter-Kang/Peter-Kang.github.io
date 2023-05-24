@@ -7,6 +7,7 @@ import Navbar from './Navbar/Navbar';
 import Gaggiuino from "./routes/Gaggiuino"
 import CoffeeMods from "./routes/CoffeeMods"
 import TeaProcess from "./routes/TeaNotes/TeaProcess"
+import Projects from "./routes/Projects"
 
 function App() {
   return (
@@ -19,8 +20,10 @@ function App() {
         <Route path="/Gaggiuino" element={<Gaggiuino/>}/>
         <Route path="/CoffeeMods" element={<CoffeeMods/>}/>
         <Route path="/TeaProcess" element={<TeaProcess/>}/>
+        <Route path="/Projects" element={<Projects/>}/>
       </Routes>
     </>
   );
 }
+
 export default App;
