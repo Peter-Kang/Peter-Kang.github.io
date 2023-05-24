@@ -90,6 +90,12 @@ const Resume = ()=>
         <Row>
             <Col>
                 <lu>
+                    <li> <a href="./#/Gaggiuino">Gaggiuino</a> </li>
+                </lu>
+                <lu>
+                    <li> <a href="./#/Projects">Solo Projects</a> </li>
+                </lu>
+                <lu>
                     <li> <a href="./#/Collaborations">Collaborations</a> </li>
                 </lu> 
             </Col>
@@ -102,7 +108,17 @@ const Resume = ()=>
             </Col>
         </Row>
         <Row>
-           
+            <Col>
+                <lu>
+                    <li> <a href="./#/CoffeeMods">Coffee</a> </li>
+                </lu> 
+                <lu>
+                    <li> <a href="./#/TeaNotes">Tea</a> </li>
+                </lu>
+                <lu>
+                    <li> Reading List (TBD) </li>
+                </lu> 
+            </Col>
         </Row>
         <br/>
         <Row className="justify-content-center">
