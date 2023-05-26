@@ -26,7 +26,7 @@ const Collaborations = ()=>
         <Row><Col> <a href="https://github.com/cman131/HobbyExpenditureCalculator" >https://github.com/cman131/HobbyExpenditureCalculator</a> </Col></Row>
         <br/>
         <Row><Col className="fw-bold"><h6>RIT iOS Hackathon: SwiftRekt</h6></Col></Row>
-        <Row><Col> Swift app color detection game. Worked with 3 other devs done entirely in swift. Primary spent time on the color detection part and helping the team with things that come up.</Col></Row>
+        <Row><Col> Swift app color detection game. Worked with 3 other devs done entirely in swift. Created color detection part and helping the team with things that come up.</Col></Row>
         <Row><Col> <a href="https://github.com/MorganCabral/swiftrekt-ios-app-dev-challenge-2015">https://github.com/MorganCabral/swiftrekt-ios-app-dev-challenge-2015</a> </Col></Row>
         <br/>
        
