@@ -16,12 +16,12 @@ const Collaborations = ()=>
         <Row><Col><a href="https://www.evenline.co"> https://www.evenline.co </a></Col></Row>
         <br/>
         <Row><Col className="fw-bold"><h3><u>Other projects</u></h3></Col></Row>
-        <Row><Col className="fw-bold"><h6> MTG Draft App </h6></Col></Row>
-        <Row><Col>AngularJS Express web app for magic the gathering Drafting</Col></Row>
-        <Row><Col>Worked with a friend on putting together an app to draft magic the gathering packs.</Col></Row>
+        <Row><Col className="fw-bold"><h6> Magic the Gathering Draft App </h6></Col></Row>
+        <Row><Col>AngularJS Express web app for Magic the Gathering drafting</Col></Row>
+        <Row><Col>Worked with a friend on putting together an app to draft Magic the Gathering packs.</Col></Row>
         <Row><Col> <a href="https://github.com/cman131/last-season-received-criticism-for-not-happening-in-a-prison-but-it-turns-out-society-is-the-prison"> https://github.com/cman131/last-season-received-criticism-for-not-happening-in-a-prison-but-it-turns-out-society-is-the-prison</a> </Col></Row>
         <br/>
-        <Row><Col className="fw-bold"><h6>Hackaton: Hobby Expenditure Calculator</h6></Col></Row>
+        <Row><Col className="fw-bold"><h6>Hackathon: Hobby Expenditure Calculator</h6></Col></Row>
         <Row><Col> .Net MVC5 WebApp calculator to help budget how much could be spent a hobby. For the Intuit hackathon. Done in a team of 4.</Col></Row>
         <Row><Col> <a href="https://github.com/cman131/HobbyExpenditureCalculator" >https://github.com/cman131/HobbyExpenditureCalculator</a> </Col></Row>
         <br/>
