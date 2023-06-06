@@ -16,7 +16,7 @@ const Projects = ()=>
             <br/>
             <Row><Col className="fw-bold"><h3><u>Back end</u></h3></Col></Row>
             <Row><Col> <h6> <b>DwarfPoolAPIClient</b>  </h6></Col></Row>
-            <Row><Col>.Net Project done to get API calls from DwarfPool, a popular ethereum mining pool at the time.</Col></Row>
+            <Row><Col>.Net Core 2.0 Project done to get API calls from DwarfPool, a popular ethereum mining pool at the time.</Col></Row>
             <Row><Col><a href="https://github.com/Peter-Kang/DwarfPoolAPIClient">https://github.com/Peter-Kang/DwarfPoolAPIClient</a></Col></Row>
         </Container>
     )
