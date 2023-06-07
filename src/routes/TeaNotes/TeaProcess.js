@@ -69,7 +69,7 @@ const TeaProcess = () => {
                         <td>De-moisturize<br />Pan fried and Steamed<br />Done to stop enzymes</td>
                         <td>Yes, but there is no oxidation due to the withering</td>
                         <td>Baked To Seal</td>
-                        <td>Typically not. <br />Only the Hoji-cha (Made from ban-cha)</td>
+                        <td>Typically not. <br />Only the Hojicha (Made from bancha or Kukicha)</td>
                     </tr>
                     <tr>
                         <td>Yellow</td>
