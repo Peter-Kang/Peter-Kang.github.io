@@ -14,10 +14,27 @@ const Stm32Upgrade = () => {
                 <figure className="figure text-center">
                     <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106229166932088/IMG_2943.png?width=235&height=202" width="235" height="202"></Image>
                     <figcaption className="figure-caption">
-                        On the left red circle we have the new dimmer added and on the right red circle we have the analog to digital converter added.
+                        On the left red circle we have the new relay added and on the right red circle we have the analog to digital converter added.
                     </figcaption>
                 </figure>
             </div>
+            <Row>
+                <Col>
+                    <h2><a id="Done"><u>Done Done</u></a></h2>
+                    <p>
+                        STM32 upgrade
+                    </p>
+                    <br />
+                    <div className="d-flex align-items-center justify-content-center">
+                        <figure className="figure text-center">
+                            <video width="400" controls>
+                                <source src="https://cdn.discordapp.com/attachments/1103103292030058526/1107459284574404748/IMG_3096.mov" type="video/mp4" allowFullScreen />
+                            </video>
+                            <figcaption className="figure-caption">STM32 Gaggiuino in full use</figcaption>
+                        </figure>
+                    </div>
+                </Col>
+            </Row>
             <h2><a id="PostMortem2"><u>Post Mortem STM32 Micro Controller</u></a></h2>
             <p>
                 This upgrade was more difficult then expected because I also wanted to redo some of the wiring.

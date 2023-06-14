@@ -2,11 +2,12 @@ import './App.css';
 import { Routes, Route} from "react-router-dom";
 import Home from "./routes/Home";
 import Resume from "./routes/Resume";
-import Projects from "./routes/Projects";
+import Collaborations from "./routes/Collaborations";
 import Navbar from './Navbar/Navbar';
-import Coffee from "./routes/Coffee"
+import Gaggiuino from "./routes/Gaggiuino"
 import CoffeeMods from "./routes/CoffeeMods"
 import TeaProcess from "./routes/TeaNotes/TeaProcess"
+import Projects from "./routes/Projects"
 
 function App() {
   return (
@@ -15,12 +16,14 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/Resume" element={<Resume />} />
-        <Route path="/Projects" element={<Projects />} />
-        <Route path="/Coffee" element={<Coffee/>}/>
+        <Route path="/Collaborations" element={<Collaborations />} />
+        <Route path="/Gaggiuino" element={<Gaggiuino/>}/>
         <Route path="/CoffeeMods" element={<CoffeeMods/>}/>
         <Route path="/TeaProcess" element={<TeaProcess/>}/>
+        <Route path="/Projects" element={<Projects/>}/>
       </Routes>
     </>
   );
 }
+
 export default App;
