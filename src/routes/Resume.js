@@ -36,6 +36,9 @@ const Resume = ()=>
                         Provided feedback and input on design decisions. Along with helping teammates with writing SQL.
                     </Col>
                 </Row>
+                <Row>
+                    <Col>My team role was the documenter and team ambassador for collaborations.</Col>
+                </Row>
                 <ul>
                     <li>Team setting: Scrum/Agile setting. 1 product owner/business analyst,1 solution lead, 1 scrum master, and dev team of 5 people.</li>
                     <li>Tech Stack: Microservices architecture. AngularJS frontend hosted in Weblogic, interfaces with .Net services hosted in IIS written in C#. SQL Server Database. </li>
