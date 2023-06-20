@@ -30,7 +30,7 @@ const Resume = ()=>
                 <Row><Col className="text-decoration-underline">Software Engineer</Col></Row>
                 <Row>
                     <Col>
-                        SOW Contractor. Connect microservices and platforms with Kafka consumers and REST api calls. 
+                        Contractor for Paychex teams. Connect microservices and platforms with Kafka consumers and REST api calls. 
                         Focus on documentation, code reviews, and resolving software performance bottlenecks.
                         Shared organized information in the form of diagrams, meetings, and confluence pages. 
                         Provided feedback and input on design decisions. Along with helping teammates with writing SQL.
