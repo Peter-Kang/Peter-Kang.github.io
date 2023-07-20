@@ -46,7 +46,7 @@ const Home = () => {
       </Row>
       <Row className="justify-content-center">
         <Col md={8} sm={8} xs={10} className="text-center">
-          Leetcode: <a href="https://github.com/Peter-Kang">Peter-Kang</a>
+          Leetcode: <a href="https://leetcode.com/Peter-Kang/">Peter-Kang</a>
         </Col>
       </Row>
     </Container>
