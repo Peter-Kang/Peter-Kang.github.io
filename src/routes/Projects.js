@@ -19,17 +19,18 @@ const Projects = ()=>
             <Row><Col>Displays coin prices. Done with Tram-lite library. </Col></Row>
             <Row><Col><b>Demo:</b><a href="https://pkang.dev/CryptoCoinCollection/"> https://pkang.dev/CryptoCoinCollection/</a></Col></Row>
             <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/CryptoCoinCollection">https://github.com/Peter-Kang/CryptoCoinCollection</a></Col></Row>
-            <br/> 
-            <Row><Col className="fw-bold"><h3><u>Back end</u></h3></Col></Row>
-            <Row><Col> <h6> <b>DwarfPoolAPIClient</b>  </h6></Col></Row>
-            <Row><Col>.Net Core 2.0 Project done to get API calls from DwarfPool, a popular ethereum mining pool at the time.</Col></Row>
-            <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/DwarfPoolAPIClient">https://github.com/Peter-Kang/DwarfPoolAPIClient</a></Col></Row>
             <br/>
             <Row><Col> <h6> <b>Wise Whispering Wontons</b> </h6></Col></Row>
             <Row><Col>Fortune cookie app. Done with Tram-lite library. </Col></Row>
             <Row><Col><b>Demo:</b><a href="https://pkang.dev/WiseWhisperingWontons/"> https://pkang.dev/WiseWhisperingWontons/</a></Col></Row>
             <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/WiseWhisperingWontons">https://github.com/Peter-Kang/WiseWhisperingWontons</a></Col></Row>
             <br/>
+            <Row><Col className="fw-bold"><h3><u>Back end</u></h3></Col></Row>
+            <Row><Col> <h6> <b>DwarfPoolAPIClient</b>  </h6></Col></Row>
+            <Row><Col>.Net Core 2.0 Project done to get API calls from DwarfPool, a popular ethereum mining pool at the time.</Col></Row>
+            <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/DwarfPoolAPIClient">https://github.com/Peter-Kang/DwarfPoolAPIClient</a></Col></Row>
+            <br/>
+            
         </Container>
     )
 }
