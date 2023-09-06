@@ -30,6 +30,10 @@ const Projects = ()=>
             <Row><Col>.Net Core 2.0 Project done to get API calls from DwarfPool, a popular ethereum mining pool at the time.</Col></Row>
             <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/DwarfPoolAPIClient">https://github.com/Peter-Kang/DwarfPoolAPIClient</a></Col></Row>
             <br/>
+            <Row><Col> <h6> <b>Spelling Bee Solver</b>  </h6></Col></Row>
+            <Row><Col>C++ program to solve the New York Times puzzle SpellingBee</Col></Row>
+            <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/SpellingBeeSolver">https://github.com/Peter-Kang/SpellingBeeSolver</a></Col></Row>
+            <br/>
             
         </Container>
     )
