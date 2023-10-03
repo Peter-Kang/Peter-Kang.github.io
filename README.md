@@ -12,6 +12,7 @@ npm run deploy
 ```
 Or locally
 ```bash
+npm install
 npm start
 ```
 
