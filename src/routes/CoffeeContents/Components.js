@@ -18,7 +18,7 @@ const GaggiuinoComponents = () => {
                 </Col>
                 <Col className="col-md-4 col-12 text-center">
                     <figure className="figure text-center">
-                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105890736951389/IMG_2741.png?width=246&height=328" height="50%" width="50%" alt="On The Top left is the power supply that converts live and neutral to 5v and ground" />
+                        <Image className="figure-img img-fluid" src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/IMG_2741.png?width=246&height=328" height="50%" width="50%" alt="On The Top left is the power supply that converts live and neutral to 5v and ground" />
                         <figcaption className="figure-caption">Top left of the image is the power supply</figcaption>
                     </figure>
                 </Col>
@@ -34,7 +34,7 @@ const GaggiuinoComponents = () => {
                 </Col>
                 <Col className="col-md-4 col-12 text-center">
                     <figure className="figure text-center">
-                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105900203487232/IMG_2738.png?width=246&height=328" height="50%" width="50%" alt="Arduino Nano Micro Controller" />
+                        <Image className="figure-img img-fluid" src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/IMG_2738.png?width=246&height=328" height="50%" width="50%" alt="Arduino Nano Micro Controller" />
                         <figcaption className="figure-caption">Arduino Nano Micro Controller</figcaption>
                     </figure>
                 </Col>
@@ -53,7 +53,7 @@ const GaggiuinoComponents = () => {
                 </Col>
                 <Col className="col-md-4 col-12 text-center">
                     <figure className="figure text-center">
-                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105889365401720/IMG_2740.png?width=246&height=328" height="50%" width="50%" alt="Nexton 2.4 inch Discover display" />
+                        <Image className="figure-img img-fluid" src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/IMG_2740.png?width=246&height=328" height="50%" width="50%" alt="Nexton 2.4 inch Discover display" />
                         <figcaption className="figure-caption">Nexton 2.4 inch Discover display</figcaption>
                     </figure>
                 </Col>
@@ -71,13 +71,13 @@ const GaggiuinoComponents = () => {
                 </Col>
                 <Col className="col-6 text-center">
                     <figure className="figure text-center ">
-                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105892473384991/IMG_2743.png?width=234&height=312" height="100%" width="100%" alt="Thermal Coupler" />
+                        <Image className="figure-img img-fluid" src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/IMG_2743.png?width=234&height=312" height="100%" width="100%" alt="Thermal Coupler" />
                         <figcaption className="figure-caption">Thermal coupler</figcaption>
                     </figure>
                 </Col>
                 <Col className="col-6 text-center">
                     <figure className="figure text-center">
-                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105886093844530/IMG_2739.png?width=234&height=312" height="100%" width="100%" alt="Solid State Relay Switch" />
+                        <Image className="figure-img img-fluid" src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/IMG_2739.png?width=234&height=312" height="100%" width="100%" alt="Solid State Relay Switch" />
                         <figcaption className="figure-caption">Relay Switch</figcaption>
                     </figure>
                 </Col>
@@ -100,19 +100,19 @@ const GaggiuinoComponents = () => {
                 </Col>
                 <Col className="col-sm-4 col-12 text-center">
                     <figure className="figure text-center" width="312" height="416">
-                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105895388434482/IMG_2867.png?width=312&height=416" height="75%" width="75%" alt="T Fitting" />
+                        <Image className="figure-img img-fluid" src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/IMG_2867.png?width=312&height=416" height="75%" width="75%" alt="T Fitting" />
                         <figcaption className="figure-caption">T Fitting, joining 3 orange-red tubes</figcaption>
                     </figure>
                 </Col>
                 <Col className="col-sm-4 col-12 text-center">
                     <figure className="figure text-center" width="312" height="416">
-                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105896730603561/IMG_2868.png?width=312&height=416" height="75%" width="75%" alt="Pressure Sensor" />
+                        <Image className="figure-img img-fluid" src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/IMG_2868.png?width=312&height=416" height="75%" width="75%" alt="Pressure Sensor" />
                         <figcaption className="figure-caption">Pressure Sensor, <br/>the hex shaped fitting attached to the orange-red tube</figcaption>
                     </figure>
                 </Col>
                 <Col className="col-sm-4 col-12 text-center">
                     <figure className="figure  text-center" width="312" height="416">
-                        <Image className="figure-img img-fluid" src="https://media.discordapp.net/attachments/1103103292030058526/1103105899465297930/dimmer.jpg?width=312&height=416" height="75%" width="75%" alt="dimmer" />
+                        <Image className="figure-img img-fluid" src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/dimmer.jpg?width=312&height=416" height="75%" width="75%" alt="dimmer" />
                         <figcaption className="figure-caption">Dimmer</figcaption>
                     </figure>
                 </Col>

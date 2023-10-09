@@ -12,7 +12,7 @@ const Stm32Upgrade = () => {
             </p>
             <div className="text-center">
                 <figure className="figure text-center">
-                    <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106229166932088/IMG_2943.png?width=235&height=202" width="235" height="202"></Image>
+                    <Image src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/IMG_2943.png?width=235&height=202" width="235" height="202"></Image>
                     <figcaption className="figure-caption">
                         On the left red circle we have the new relay added and on the right red circle we have the analog to digital converter added.
                     </figcaption>
@@ -28,7 +28,7 @@ const Stm32Upgrade = () => {
                     <div className="d-flex align-items-center justify-content-center">
                         <figure className="figure text-center">
                             <video width="400" controls>
-                                <source src="https://cdn.discordapp.com/attachments/1103103292030058526/1107459284574404748/IMG_3096.mov" type="video/mp4" allowFullScreen />
+                                <source src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/IMG_3096.mov" type="video/mp4" allowFullScreen />
                             </video>
                             <figcaption className="figure-caption">STM32 Gaggiuino in full use</figcaption>
                         </figure>
@@ -58,7 +58,7 @@ const Stm32Upgrade = () => {
             <Row className="text-center">
                 <Col className="col-md-6 col-12 text-center">
                     <figure className="figure text-center" >
-                        <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106228063834212/IMG_2937.png?width=246&height=328" width="246" height="328"></Image>
+                        <Image src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/IMG_2937.png?width=246&height=328" width="246" height="328"></Image>
                         <figcaption className="figure-caption">
                             Red circles show where the two ports connect to the plate
                         </figcaption>
@@ -66,7 +66,7 @@ const Stm32Upgrade = () => {
                 </Col>
                 <Col className="col-md-6 col-12 text-center">
                     <figure className="figure text-center">
-                        <Image src="https://media.discordapp.net/attachments/1103103292030058526/1103106230177771531/IMG_2944.png?width=246&height=328" width="246" height="328"></Image>
+                        <Image src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/IMG_2944.png?width=246&height=328" width="246" height="328"></Image>
                         <figcaption className="figure-caption">
                             Separating both those sides of the plate
                         </figcaption>
