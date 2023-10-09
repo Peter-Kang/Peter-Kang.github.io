@@ -28,7 +28,7 @@ const Stm32Upgrade = () => {
                     <div className="d-flex align-items-center justify-content-center">
                         <figure className="figure text-center">
                             <video width="400" controls>
-                                <source src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/IMG_3096.mov" type="video/mp4" allowFullScreen />
+                                <source src="https://cdn.discordapp.com/attachments/1103103292030058526/1107459284574404748/IMG_3096.mov" type="video/mp4" allowFullScreen />
                             </video>
                             <figcaption className="figure-caption">STM32 Gaggiuino in full use</figcaption>
                         </figure>

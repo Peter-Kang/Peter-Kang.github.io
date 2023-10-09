@@ -15,7 +15,7 @@ const CoffeeAssembly = () => {
                     <div className="d-flex align-items-center justify-content-center">
                         <figure className="figure text-center">
                             <video width="400" controls>
-                                <source src="IMG_2866.mov" type="video/mp4" allowFullScreen />
+                                <source src="https://cdn.discordapp.com/attachments/1103103292030058526/1103105894612476014/IMG_2866.mov" type="video/mp4" allowFullScreen />
                             </video>
                             <figcaption className="figure-caption">Bottomless Portafilter and Gaggiuino in full use</figcaption>
                         </figure>
