@@ -137,7 +137,7 @@ const CoffeeMods = () => {
           <figure className="figure text-center">
             <Image
               className="alignment-center figure-img img-fluid"
-              src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/CoffeeMods/IMG_2947.png?width=258&height=194"
+              src="https://cdn.jsdelivr.net/gh/peter-kang/CDN/PersonalSite/Gagguino/IMG_2947.png?width=258&height=194"
               height="100%"
               width="100%"
               alt=""
