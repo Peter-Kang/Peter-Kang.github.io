@@ -21,6 +21,11 @@ const Projects = ()=>
             <Row><Col><b>Demo:</b><a href="https://pkang.dev/WiseWhisperingWontons/"> https://pkang.dev/WiseWhisperingWontons/</a></Col></Row>
             <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/WiseWhisperingWontons">https://github.com/Peter-Kang/WiseWhisperingWontons</a></Col></Row>
             <br/>
+            <Row><Col> <h6> <b>Wise Whispering Wontons</b> </h6></Col></Row>
+            <Row><Col>Fortune cookie app. Done with Tram-lite library. </Col></Row>
+            <Row><Col><b>Demo:</b><a href="https://pkang.dev/TipSplit/"> https://pkang.dev/TipSplit/</a></Col></Row>
+            <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/TipSplit">https://github.com/Peter-Kang/TipSplit</a></Col></Row>
+            <br/>
             <Row><Col className="fw-bold"><h3><u>Other</u></h3></Col></Row>
             <Row><Col> <h6> <b>Reminder App</b> </h6></Col></Row>
             <Row><Col>A Multi-Container Reminder app built with React, Deno, MongoDB, and Docker. Using Axios for the API calls from React to Deno. Then Oak middleware as a server in Deno</Col></Row>
