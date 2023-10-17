@@ -21,10 +21,10 @@ const Projects = ()=>
             <Row><Col><b>Demo:</b><a href="https://pkang.dev/WiseWhisperingWontons/"> https://pkang.dev/WiseWhisperingWontons/</a></Col></Row>
             <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/WiseWhisperingWontons">https://github.com/Peter-Kang/WiseWhisperingWontons</a></Col></Row>
             <br/>
-            <Row><Col> <h6> <b>Tip Split</b> </h6></Col></Row>
+            <Row><Col> <h6> <b>Tea Tips</b> </h6></Col></Row>
             <Row><Col>Tip splitting app For Happy Earth Tea. Done with Tram-lite library. </Col></Row>
-            <Row><Col><b>Demo:</b><a href="https://pkang.dev/TipSplit/"> https://pkang.dev/TipSplit/</a></Col></Row>
-            <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/TipSplit">https://github.com/Peter-Kang/TipSplit</a></Col></Row>
+            <Row><Col><b>Demo:</b><a href="https://pkang.dev/TeaTips/"> https://pkang.dev/TeaTips</a></Col></Row>
+            <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/TeaTips">https://github.com/Peter-Kang/TeaTips</a></Col></Row>
             <br/>
             <Row><Col className="fw-bold"><h3><u>Other</u></h3></Col></Row>
             <Row><Col> <h6> <b>Reminder App</b> </h6></Col></Row>
