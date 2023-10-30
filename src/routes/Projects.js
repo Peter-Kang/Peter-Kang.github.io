@@ -11,10 +11,10 @@ const Projects = ()=>
             <Row><Col><b>Demo:</b><a href="https://pkang.dev/"> https://pkang.dev/</a></Col></Row>
             <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/Peter-Kang.github.io">https://github.com/Peter-Kang/Peter-Kang.github.io</a></Col></Row>
             <br/>
-            <Row><Col> <h6> <b>Tea Picker</b> </h6></Col></Row>
+            <Row><Col> <h6> <b>Happy Tea Picker</b> </h6></Col></Row>
             <Row><Col>Random Tea Picker for Happy Earth Tea. Done with Tram-lite library. </Col></Row>
-            <Row><Col><b>Demo:</b><a href="https://pkang.dev/TeaPicker"> https://pkang.dev/TeaPicker</a></Col></Row>
-            <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/TeaPicker">https://github.com/Peter-Kang/TeaPicker</a></Col></Row>
+            <Row><Col><b>Demo:</b><a href="https://pkang.dev/HappyTeaPicker"> https://pkang.dev/HappyTeaPicker</a></Col></Row>
+            <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/HappyTeaPicker">https://github.com/Peter-Kang/HappyTeaPicker</a></Col></Row>
             <br/>
             <Row><Col> <h6> <b>CryptoCoinCollection</b> </h6></Col></Row>
             <Row><Col>Displays coin prices. Done with Tram-lite library. </Col></Row>
