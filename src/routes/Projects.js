@@ -25,7 +25,7 @@ const Projects = ()=>
                         <a href="https://pkang.dev/HappyTeaPicker"><Image src="./Projects/happy.png" width="50" height="50"></Image></a>
                     </Col>
                     <Col>
-                        <Row><Col> <h6> <b>Happy Tea Picker</b> </h6></Col></Row>
+                        <Row><Col> <h6><u><b>Happy Tea Picker</b></u></h6></Col></Row>
                         <Row><Col>Random Tea Picker for Happy Earth Tea. Done with Tram-lite library. </Col></Row>
                         <Row><Col><b>Demo:</b><a href="https://pkang.dev/HappyTeaPicker"> https://pkang.dev/HappyTeaPicker</a></Col></Row>
                         <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/HappyTeaPicker">https://github.com/Peter-Kang/HappyTeaPicker</a></Col></Row>
@@ -39,7 +39,7 @@ const Projects = ()=>
                         <a href="https://pkang.dev/CryptoCoinCollection/"><Image src="./Projects/crypto.png" width="50" height="50"></Image></a>
                     </Col>
                     <Col>
-                        <Row><Col> <h6> <b>CryptoCoinCollection</b> </h6></Col></Row>
+                        <Row><Col> <h6><u><b>CryptoCoinCollection</b></u></h6></Col></Row>
                         <Row><Col>Displays coin prices. Done with Tram-lite library. </Col></Row>
                         <Row><Col><b>Demo:</b><a href="https://pkang.dev/CryptoCoinCollection/"> https://pkang.dev/CryptoCoinCollection/</a></Col></Row>
                         <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/CryptoCoinCollection">https://github.com/Peter-Kang/CryptoCoinCollection</a></Col></Row>
@@ -52,7 +52,7 @@ const Projects = ()=>
                     <a href="https://pkang.dev/WiseWhisperingWontons/"><Image src="./Projects/wonton.png" width="50" height="50"></Image></a>
                 </Col>
                 <Col>
-                    <Row><Col> <h6> <b>Wise Whispering Wontons</b> </h6></Col></Row>
+                    <Row><Col> <h6><u><b>Wise Whispering Wontons</b></u></h6></Col></Row>
                     <Row><Col>Fortune cookie app. Done with Tram-lite library. </Col></Row>
                     <Row><Col><b>Demo:</b><a href="https://pkang.dev/WiseWhisperingWontons/"> https://pkang.dev/WiseWhisperingWontons/</a></Col></Row>
                     <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/WiseWhisperingWontons">https://github.com/Peter-Kang/WiseWhisperingWontons</a></Col></Row>
@@ -64,7 +64,7 @@ const Projects = ()=>
                     <a href="https://pkang.dev/TeaTips/"><Image src="./Projects/teatips.png" width="50" height="50"></Image></a>
                 </Col>
                 <Col>
-                    <Row><Col> <h6> <b>Tea Tips</b> </h6></Col></Row>
+                    <Row><Col> <h6><u><b>Tea Tips</b></u></h6></Col></Row>
                     <Row><Col>Tip splitting app For Happy Earth Tea. Done with Tram-lite library. </Col></Row>
                     <Row><Col><b>Demo:</b><a href="https://pkang.dev/TeaTips/"> https://pkang.dev/TeaTips</a></Col></Row>
                     <Row><Col><b>Repository:</b><a href="https://github.com/Peter-Kang/TeaTips">https://github.com/Peter-Kang/TeaTips</a></Col></Row>
