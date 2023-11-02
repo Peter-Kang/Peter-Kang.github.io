@@ -18,6 +18,7 @@ const Projects = ()=>
                     <Row><Col><b>Repository:</b><a target="_blank" href="https://github.com/Peter-Kang/Peter-Kang.github.io">https://github.com/Peter-Kang/Peter-Kang.github.io</a></Col></Row>
                 </Col>
             </Row>
+
             <br/>
             <Row>
                 <Row>
@@ -66,7 +67,7 @@ const Projects = ()=>
                 <Col>
                     <Row><Col> <h6><b>Tea Tips</b></h6></Col></Row>
                     <Row><Col>Tip splitting app For Happy Earth Tea. Done with Tram-lite library. </Col></Row>
-                    <Row><Col><b>Demo:</b><a target="_blank" href="https://pkang.dev/TeaTips/"> https://pkang.dev/TeaTips</a></Col></Row>
+                    <Row><Col><b>Link:</b><a target="_blank" href="https://pkang.dev/TeaTips/"> https://pkang.dev/TeaTips</a></Col></Row>
                     <Row><Col><b>Repository:</b><a target="_blank" href="https://github.com/Peter-Kang/TeaTips">https://github.com/Peter-Kang/TeaTips</a></Col></Row>
                 </Col>
             </Row>
