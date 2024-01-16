@@ -43,7 +43,7 @@ const Resume = () => {
           </Row>
           <Row>
             <Col>
-              Contractor for Paychex teams. Connect microservices and platforms
+              Contractor for Paychex teams. Communication of microservices and platforms
               with Kafka consumers and REST api calls. Focus on documentation,
               code reviews, and resolving software performance bottlenecks.
               Shared organized information in the form of diagrams, meetings,
