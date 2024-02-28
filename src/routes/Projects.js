@@ -23,13 +23,13 @@ const Projects = ()=>
             <Row>
                 <Row>
                     <Col md={1} sm={2} xs={2} className="m-auto" align="center">
-                        <a target="_blank" href="https://pkang.dev/HappyTeaPicker"><Image src="./Projects/happy.png" width="50" height="50"></Image></a>
+                        <a target="_blank" href="https://pkang.dev/HappyEarthTeaPicker"><Image src="./Projects/happy.png" width="50" height="50"></Image></a>
                     </Col>
                     <Col>
-                        <Row><Col> <h6><b>Happy Tea Picker</b></h6></Col></Row>
+                        <Row><Col> <h6><b>Happy Earth Tea Picker</b></h6></Col></Row>
                         <Row><Col>Random Tea Picker for Happy Earth Tea. Done with Tram-lite library. </Col></Row>
-                        <Row><Col><b>Link:</b><a target="_blank" href="https://pkang.dev/HappyTeaPicker"> https://pkang.dev/HappyTeaPicker</a></Col></Row>
-                        <Row><Col><b>Repository:</b><a target="_blank" href="https://github.com/Peter-Kang/HappyTeaPicker">https://github.com/Peter-Kang/HappyTeaPicker</a></Col></Row>
+                        <Row><Col><b>Link:</b><a target="_blank" href="https://pkang.dev/HappyEarthTeaPicker"> https://pkang.dev/HappyEarthTeaPicker</a></Col></Row>
+                        <Row><Col><b>Repository:</b><a target="_blank" href="https://github.com/Peter-Kang/HappyEarthTeaPicker">https://github.com/Peter-Kang/HappyEarthTeaPicker</a></Col></Row>
                     </Col>
                 </Row>
             </Row>
