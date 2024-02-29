@@ -21,7 +21,7 @@ const Home = () => {
       <br />
       <Row className="justify-content-center">
         <Col md={8} sm={8} xs={10} className="text-center">
-          I enjoy listening to stories, exercising, reading, and learning about
+          I enjoy listening to stories, building things, exercising, reading, and learning about
           new things.
         </Col>
       </Row>
