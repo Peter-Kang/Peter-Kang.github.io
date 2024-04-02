@@ -72,6 +72,18 @@ const Projects = ()=>
                 </Col>
             </Row>
             <br/>
+            <Row>
+                <Col md={1} sm={2} xs={2} className="m-auto" align="center">
+                    <a target="_blank" href="https://pkang.dev/TrionfiTavern/"><Image src="./Projects/Trionfi.png" width="50" height="50"></Image></a>
+                </Col>
+                <Col>
+                    <Row><Col> <h6><b>Trionfi Tavern</b></h6></Col></Row>
+                    <Row><Col>Tarot App with a sharable link </Col></Row>
+                    <Row><Col><b>Link:</b><a target="_blank" href="https://pkang.dev/TrionfiTavern/"> https://pkang.dev/TrionfiTavern/</a></Col></Row>
+                    <Row><Col><b>Repository:</b><a target="_blank" href="https://github.com/Peter-Kang/TrionfiTavern">https://github.com/Peter-Kang/TrionfiTavern</a></Col></Row>
+                </Col>
+            </Row>
+            <br/>
             <Row><Col className="fw-bold"><h3><u>Other</u></h3></Col></Row>
             <Row><Col> <h6> <b>Reminder App</b> </h6></Col></Row>
             <Row><Col>A Multi-Container Reminder app built with React, Deno, MongoDB, and Docker. Using Axios for the API calls from React to Deno. Then Oak middleware as a server in Deno</Col></Row>
