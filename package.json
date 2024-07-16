@@ -43,6 +43,6 @@
   },
   "devDependencies": {
     "eslint-plugin-jsx-a11y": "^6.6.1",
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^5.0.0"
   }
 }
