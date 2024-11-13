@@ -172,7 +172,6 @@ const TeaProcess = () => {
 
             <h3>Storage</h3>
             <p>Cool, Dry place, airtight, outside of sunlight. </p>
-            <h3>Recommendations</h3>
         </Container>
     )
 };
