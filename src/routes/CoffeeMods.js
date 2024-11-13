@@ -159,7 +159,7 @@ const CoffeeMods = () => {
       <Row>
         <Col className="col-md-6 col-12">
           This mod adds a micro controller for temperature and pressure control.
-          I have an entire <a href="./#/Coffee">page</a> dedicated to the
+          I have an entire <a href="./#/Gaggiuino">page</a> dedicated to the
           implementation. This is the most involved mod and was pretty enjoyable
           putting it together.
         </Col>
