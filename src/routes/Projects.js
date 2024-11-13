@@ -99,7 +99,7 @@ const Projects = ()=>
             <br/>
             <Row><Col> <h6> <b>Discord Bot</b>  </h6></Col></Row>
             <Row><Col>Discord bot for DnD and games stats. Python 3.11</Col></Row>
-            <Row><Col><b>Repository:</b><a target="_blank" href="https://github.com/Peter-Kang/LeagueDiscordBot">https://github.com/Peter-Kang/LeagueDiscordBot</a></Col></Row>
+            <Row><Col><b>Repository:</b><a target="_blank" href="https://github.com/Peter-Kang/LunaBot">https://github.com/Peter-Kang/LunaBot</a></Col></Row>
             <br/>
             
         </Container>
