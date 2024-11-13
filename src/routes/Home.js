@@ -51,7 +51,7 @@ const Home = () => {
       </Row>
       <Row className="justify-content-center">
         <Col md={8} sm={8} xs={10} className="text-center">
-          Buy me a Coffee: <a href="buymeacoffee.com/Peter.Kang">Peter.Kang</a>
+          Buy me a Coffee: <a href="https://buymeacoffee.com/Peter.Kang">Peter.Kang</a>
         </Col>
       </Row>
     </Container>
