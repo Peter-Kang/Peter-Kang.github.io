@@ -65,7 +65,7 @@ const Resume = () => {
             <li>
               Tech Stack: Microservices architecture. AngularJS frontend hosted
               in Weblogic, interfaces with .Net services hosted in IIS written
-              in C#. SQL Server Database.{" "}
+              in C#. SQL Server Database. MSTest and Moq for Unit Tests with 70% code coverage.{" "}
             </li>
             <li>
               CI/CD: Jenkins, applications deploy to a mix environment between
@@ -142,7 +142,7 @@ const Resume = () => {
               Tech Stack: C++/C#/common language Infrastructure project several
               teams built up over the course of 20+ years(adapted from assembly
               and C). Windows form front end. C and python side projects and
-              embedded devices.
+              embedded devices. Custom C++ Unit test.
             </li>
             <li>
               CI/CD: Organize DLLs in folder structures that would be copied to
@@ -184,7 +184,7 @@ const Resume = () => {
             </li>
             <li>
               Tech Stack: MVC5 .Net webapp. Along with PerfectTracker a Pascal
-              like framework. With SQL Server as the database.
+              like framework. With SQL Server as the database. MSTest for Unit tests.
             </li>
             <li>
               CI/CD: Deploy to a local server for testing and azure server for
@@ -217,7 +217,7 @@ const Resume = () => {
           </Row>
           <ul>
             <li>Team setting: A designer, and the start up owner</li>
-            <li>Tech Stack: Ruby on Rails and Postgres database</li>
+            <li>Tech Stack: Ruby on Rails and Postgres database. Unit testing done with Ruby on Rails.</li>
             <li>CI/CD: Hosted locally on a server</li>
             <li>Repository: Github</li>
           </ul>
